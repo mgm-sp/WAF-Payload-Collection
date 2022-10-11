@@ -1,0 +1,35 @@
+id: log4shell-false-positive
+
+info:
+  name: Log4Shell
+  author: mgm security partners
+  severity: info
+  description: Sends payloads which do contain keywords used in Log4Shell attacks to test for false positives.
+  tags: log4shell,false-positive
+
+requests:
+  - payloads:
+      log4shell: nuclei/payloads/log4shell/false-positives.txt
+
+    raw:
+      - |
+        GET /?fp_param=foobar HTTP/1.1
+        Host: {{Hostname}}
+        Accept-Encoding: gzip
+        User-Agent: {{log4shell}}
+        Connection: close
+
+      - |
+        POST / HTTP/1.1
+        Host: {{Hostname}}
+        Accept-Encoding: gzip
+        User-Agent: {{log4shell}}
+        Connection: close
+
+        fp_param=foobar
+
+    matchers:
+      - type: status
+        status:
+          - 1
+        negative: true

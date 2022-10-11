@@ -1,0 +1,35 @@
+id: traversal-true-positive
+
+info:
+  name: Traversal
+  author: mgm security partners
+  severity: info
+  description: Sends path traversal and file inclusion payloads in GET and POST request. If already urlencoded, remove double encoding.
+  tags: traversal,true-positive
+
+requests:
+  - payloads:
+      traversal: nuclei/payloads/traversal/true-positives.txt
+
+    raw:
+      - |
+        GET /?tp_param={{replace(urlencode(traversal),"%25","%")}} HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+        Connection: close
+
+      - |
+        POST / HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+        Origin: {{RootURL}}
+        Content-Type: application/x-www-form-urlencoded
+        Connection: close
+
+        tp_param={{replace(urlencode(traversal),"%25","%")}}
+
+    matchers:
+      - type: status
+        status:
+          - 1
+        negative: true

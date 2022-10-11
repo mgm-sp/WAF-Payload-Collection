@@ -1,0 +1,7 @@
+<?xml version = "1.0"?><userInfo><firstName>John</firstName><lastName>Doe</lastName></userInfo>
+<?xml version="1.0" encoding="UTF-8"?><Autodiscover xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a"><Request><EMailAddress>aaaaa@bbb.com</EMailAddress><AcceptableResponseSchema>bbbb</AcceptableResponseSchema></Request></Autodiscover>
+<?xml version="1.0" encoding="UTF-8"?><stockCheck><productId>381</productId></stockCheck>
+<?xml version="1.0" ?><GetCapabilities service="WFS" version="1.0.0" xmlns="http://www.opengis.net/wfs" />
+<?xml version = "1.0"?><SOAP-ENV:Envelope xmlns:SOAP-ENV = "http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle = "http://www.w3.org/2001/12/soap-encoding"><SOAP-ENV:Body xmlns:m = "http://www.xyz.org/quotations"><m:GetQuotation><m:QuotationsName>External Entities for dummies</m:QuotationsName></m:GetQuotation></SOAP-ENV:Body></SOAP-ENV:Envelope>
+<?xml version='1.0' standalone='yes'?><movies><movie><title>PHP: Behind the Parser</title><rating type="thumbs">7</rating><rating type="stars">5</rating></movie></movies>
+<?xml version="1.0" ?><wfs:GetFeature service="WFS" version="1.0.0" xmlns:wfs="http://www.opengis.net/wfs" xmlns:ogc="http://www.opengis.net/ogc" xmlns:myns="http://www.example.com/myns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wfs ../wfs/1.0.0/WFS-basic.xsd"><wfs:Query typeName="myns:COLA"><ogc:PropertyName>myns:MKT_ID</ogc:PropertyName><ogc:PropertyName>myns:SHAPE</ogc:PropertyName></wfs:Query></wfs:GetFeature>

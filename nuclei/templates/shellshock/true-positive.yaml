@@ -1,0 +1,46 @@
+id: shellshock-true-positive
+
+info:
+  name: Shellshock
+  author: mgm security partners
+  severity: info
+  description: Sends Shellshock payloads in GET and POST requests. If already urlencoded, remove double encoding.
+  tags: shellshock,true-positive
+
+requests:
+  - payloads:
+      shellshock: nuclei/payloads/shellshock/true-positives.txt
+      
+    raw:
+      - |
+        GET /?tp_param=foobar HTTP/1.1
+        Host: {{Hostname}}
+        Accept-Encoding: gzip
+        User-Agent: {{shellshock}}
+        Connection: close
+
+      - |
+        POST / HTTP/1.1
+        Host: {{Hostname}}
+        Accept-Encoding: gzip
+        User-Agent: {{shellshock}}
+        Content-Type: text/plain
+        Connection: close
+
+        tp_param=foobar
+
+      - |
+        POST / HTTP/1.1
+        Host: {{Hostname}}
+        Accept-Encoding: gzip
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+        Content-Type: application/x-www-form-urlencoded
+        Connection: close
+
+        tp_param={{replace(urlencode(shellshock),"%25","%")}}
+
+    matchers:
+      - type: status
+        status:
+          - 1
+        negative: true

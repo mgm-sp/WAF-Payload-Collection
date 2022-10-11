@@ -1,0 +1,35 @@
+id: log4shell-true-positive
+
+info:
+  name: Log4Shell
+  author: mgm security partners
+  severity: info
+  description: Sends Log4Shell payloads in GET and POST requests. If already urlencoded, remove double encoding.
+  tags: log4shell,true-positive
+
+requests:
+  - payloads:
+      log4shell: nuclei/payloads/log4shell/true-positives.txt
+      
+    raw:
+      - |
+        GET /?tp_param=foobar HTTP/1.1
+        Host: {{Hostname}}
+        Accept-Encoding: gzip
+        User-Agent: {{log4shell}}
+        Connection: close
+
+      - |
+        POST / HTTP/1.1
+        Host: {{Hostname}}
+        Accept-Encoding: gzip
+        User-Agent: {{log4shell}}
+        Connection: close
+
+        tp_param=foobar
+
+    matchers:
+      - type: status
+        status:
+          - 1
+        negative: true

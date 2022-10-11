@@ -1,0 +1,5 @@
+We need to secure our LDAP: server
+let's get us some java
+We can tell them to wake up and smell the java
+now our team at rmi helps smart companies to lower their java consume
+jndi: "this is just a test. nothing to see here."

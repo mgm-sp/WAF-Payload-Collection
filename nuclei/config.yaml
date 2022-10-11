@@ -1,0 +1,17 @@
+# Headers to include with all HTTP request
+header:
+  - 'Accept: */*'
+  - 'Connection: close'
+
+# Load templates from following directory
+templates:
+  - nuclei/templates
+
+# load true and false positives
+tags: false-positive,true-positive
+
+# Rate Limit configuration
+## maximum number of requests to send per second
+rate-limit: 500
+## maximum number of templates to be executed in parallel
+concurrency: 4

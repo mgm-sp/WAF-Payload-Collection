@@ -1,0 +1,35 @@
+id: traversal-false-positive
+
+info:
+  name: Traversal
+  author: mgm security partners
+  severity: info
+  description: Sends payloads which do contain keywords often used in path traversal/file inclusion attacks to test for false positives.
+  tags: traversal,false-positive
+
+requests:
+  - payloads:
+      traversal: nuclei/payloads/traversal/false-positives.txt
+
+    raw:
+      - |
+        GET /?fp_param={{replace(urlencode(traversal),"%25","%")}} HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+        Connection: close
+
+      - |
+        POST / HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+        Origin: {{RootURL}}
+        Content-Type: application/x-www-form-urlencoded
+        Connection: close
+
+        fp_param={{replace(urlencode(traversal),"%25","%")}}
+
+    matchers:
+      - type: status
+        status:
+          - 1
+        negative: true

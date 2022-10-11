@@ -1,0 +1,35 @@
+id: xss-false-positive
+
+info:
+  name: Cross-Site Scripting (XSS)
+  author: mgm security partners
+  severity: info
+  description: Sends payloads which do contain keywords often used in Cross-Site Scripting attacks to test for false positives.
+  tags: xss,false-positive
+
+requests:
+  - payloads:
+      xss: nuclei/payloads/xss/false-positives.txt
+
+    raw:
+      - |
+        GET /?fp_param={{replace(urlencode(xss),"%25","%")}} HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+        Connection: close
+
+      - |
+        POST / HTTP/1.1
+        Host: {{Hostname}}
+        Origin: {{RootURL}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+        Content-Type: application/x-www-form-urlencoded
+        Connection: close
+
+        fp_param={{replace(urlencode(xss),"%25","%")}}
+
+    matchers:
+      - type: status
+        status:
+          - 1
+        negative: true

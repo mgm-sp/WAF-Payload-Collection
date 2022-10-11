@@ -1,0 +1,38 @@
+id: xxe-true-positive
+
+info:
+  name: XML External Entity (XXE)
+  author: mgm security partners
+  severity: info
+  description: Sends XML External Entity (XXE) payloads in GET and POST requests.
+  tags: xxe,true-positive
+
+requests:
+  - payloads:
+      xxe: nuclei/payloads/xxe/true-positives.txt
+
+    raw:
+      - |
+        GET / HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+        Content-Type: application/xml
+        Connection: close
+
+        {{xxe}}
+
+      - |
+        POST / HTTP/1.1
+        Host: {{Hostname}}
+        Origin: {{RootURL}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+        Content-Type: application/xml
+        Connection: close
+
+        {{xxe}}
+
+    matchers:
+      - type: status
+        status:
+          - 1
+        negative: true

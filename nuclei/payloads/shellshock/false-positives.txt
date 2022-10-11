@@ -1,0 +1,2 @@
+foo%0d%0a() { :; }just a test
+clearly()not{ shell:shock;}

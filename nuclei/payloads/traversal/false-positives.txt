@@ -1,0 +1,15 @@
+and/or
+/api/api/v1
+install.php
+database.js
+db.php
+logs/access.log
+/admin/install.php
+/admin/login.php
+/config.asp
+/index.html
+/index.php
+/public/jquery.js
+I have an issue with my password
+./index.php
+.\index.php

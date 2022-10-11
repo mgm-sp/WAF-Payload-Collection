@@ -1,0 +1,33 @@
+id: sqli-true-positive
+
+info:
+  name: SQL Injection (SQLi)
+  author: mgm security partners
+  severity: info
+  description: Sends SQL Injection payloads in GET and POST request. If already urlencoded, remove double encoding.
+  tags: sqli,true-positive
+
+requests:
+  - payloads:
+      sqli: nuclei/payloads/sqli/true-positives.txt
+
+    raw:
+      - |
+        GET /?tp_param={{replace(urlencode(sqli),"%25","%")}} HTTP/1.1
+        Host: {{Hostname}}
+        Connection: close
+
+      - |
+        POST / HTTP/1.1
+        Host: {{Hostname}}
+        Origin: {{RootURL}}
+        Content-Type: application/x-www-form-urlencoded
+        Connection: close
+
+        tp_param={{replace(urlencode(sqli),"%25","%")}}
+
+    matchers:
+      - type: status
+        status:
+          - 1
+        negative: true
